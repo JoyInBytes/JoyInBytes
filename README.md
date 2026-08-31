@@ -14,6 +14,44 @@
 
 </div>
 
+## 🎮 Featured Game: Pac-Joy Data Pipeline Maze
+
+<div align="center">
+
+<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site">
+  <img width="100%" src="https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/main/assets/pacjoy-game-banner.svg" alt="Play Pac-Joy Data Pipeline Maze with Easy, Average, and Hard Data Engineering levels" />
+</a>
+
+<br>
+
+### 🟡 Can you guide Pac-Joy from raw data to business insights?
+
+Avoid the **Data Bug ghosts**, collect **100 points per byte**, and complete all nine Data Engineering challenges.
+
+<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site">
+  <img src="https://img.shields.io/badge/%E2%96%B6_PLAY_NOW-PAC--JOY_DATA_MAZE-F47A2A?style=for-the-badge&labelColor=77333E&logo=databricks&logoColor=white" alt="Play Pac-Joy Data Pipeline Maze now" />
+</a>
+<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site">
+  <img src="https://img.shields.io/badge/HIGH_SCORE-900_POINTS-FFD35A?style=for-the-badge&labelColor=77333E&logo=trophy&logoColor=white" alt="Pac-Joy game high score is 900 points" />
+</a>
+
+<br><br>
+
+| 🟠 Easy Zone | 🌸 Average Zone | 🍒 Hard Zone |
+|:---:|:---:|:---:|
+| Raw Data | Delta Lake | Data Quality |
+| Data Cleaning | Star Schema | SCD Type 2 |
+| ETL Fundamentals | Incremental Loads | Reconciliation |
+| **300 points** | **300 points** | **300 points** |
+
+### `🟡 START` → `📦 RAW` → `🧹 CLEAN` → `⚙️ TRANSFORM` → `🏛️ MODEL` → `💡 INSIGHT` → `🏆 900`
+
+<sub>Interactive game opens in a new page because GitHub README files do not support JavaScript.</sub>
+
+</div>
+
+---
+
 ## 👾 Player Profile
 
 Hello! I’m **Christine Joy Balansay**, an aspiring **Data Engineer** from the Philippines. With a background in Financial Management, Risk Management Operations, and Business Continuity Planning, I’m learning to turn raw data into reliable, analytics-ready solutions.
@@ -40,32 +78,6 @@ Hello! I’m **Christine Joy Balansay**, an aspiring **Data Engineer** from the 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&labelColor=0D1117&logo=tableau&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=0D1117&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white)
-
-</div>
-
-## 🟡 Pac-Joy: Data Pipeline Maze
-
-<div align="center">
-
-### Can you guide Pac-Joy from raw data to business insights?
-
-Choose an answer, avoid the Data Bug ghosts, collect **100 points per byte**, and unlock the Pipeline Pathfinder badge.
-
-<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site">
-  <img src="https://img.shields.io/badge/PLAY_PAC--JOY-DATA_PIPELINE_MAZE-F47A2A?style=for-the-badge&labelColor=77333E&logo=databricks&logoColor=white" alt="Play the Pac-Joy Data Pipeline Maze" />
-</a>
-
-<br><br>
-
-| Zone | Difficulty | Topics |
-|:---:|:---:|---|
-| `01–03` | 🟠 **EASY** | Raw data, data cleaning, ETL |
-| `04–06` | 🌸 **AVERAGE** | Delta Lake, star schema, incremental loading |
-| `07–09` | 🍒 **HARD** | Data quality, SCD Type 2, pipeline reconciliation |
-
-`START` → `📦 RAW` → `🧹 CLEAN` → `⚙️ TRANSFORM` → `🏛️ MODEL` → `📊 INSIGHT` → `🏆 900 PTS`
-
-<sub>The game opens in a separate interactive page because GitHub README files do not support JavaScript.</sub>
 
 </div>
 
