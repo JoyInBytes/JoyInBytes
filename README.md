@@ -69,7 +69,7 @@ A compact interactive learning game that tests Data Engineering concepts across 
 <table align="center">
 <tr>
 <td align="center" width="120">
-<img width="95" src="https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/main/assets/umaru-pointing-pacjoy.png" alt="Umaru pointing toward the Pac-Joy game" />
+<img width="95" src="https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/main/assets/umaru-pointing-pacjoy.gif?v=2" alt="Umaru pointing toward the Pac-Joy game" />
 </td>
 <td align="left">
 <strong>Ready to enter the data maze?</strong><br>
@@ -81,9 +81,9 @@ Guide Pac-Joy from raw data to trusted business insights.<br><br>
 
 <div align="center">
 
-#### 🏆 Pac-Joy Leaderboard
+#### 🏆 Pac-Joy Top 4 Leaderboard
 
-<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site"><img width="520" src="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site/api/leaderboard-card" alt="Live compact Pac-Joy leaderboard showing the top players" /></a>
+<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site"><img width="520" src="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site/api/leaderboard-card" alt="Live Pac-Joy Top 4 podium leaderboard" /></a>
 
 <sub>If the live card does not load, <a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site">open Pac-Joy to view the leaderboard</a>.</sub>
 
