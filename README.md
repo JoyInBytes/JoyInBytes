@@ -1,7 +1,7 @@
 <!-- JOY IN BYTES | Profile repo: github.com/JoyInBytes/JoyInBytes -->
 <div align="center">
 
-![Joy in Bytes Pac-Man arcade header](https://capsule-render.vercel.app/api?type=pixel&height=210&color=gradient&customColorList=6,12,18,20,24&text=JOY%20IN%20BYTES&fontColor=FFD700&fontSize=52&fontAlignY=38&desc=INSERT%20COIN%20%E2%80%A2%20BUILD%20PIPELINES%20%E2%80%A2%20CREATE%20IMPACT&descAlignY=64&animation=twinkling)
+![Joy in Bytes Pac-Man data engineering header](https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/main/assets/joy-pacman-header.svg)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=2800&pause=900&color=FF69B4&center=true&vCenter=true&repeat=true&width=850&height=55&lines=Hi%2C+I%27m+Joy%21+%F0%9F%91%8B;Aspiring+Data+Engineer;Turning+raw+data+into+meaningful+solutions;Building+one+pipeline+at+a+time+%E2%9C%A8" alt="Animated introduction for Christine Joy Balansay" /></a>
 
