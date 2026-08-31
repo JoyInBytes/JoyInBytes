@@ -3,7 +3,7 @@
 
 ![Joy in Bytes Pac-Man data engineering header](https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/main/assets/joy-pacman-header.svg)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=2800&pause=900&color=FF69B4&center=true&vCenter=true&repeat=true&width=850&height=55&lines=Hi%2C+I%27m+Joy%21+%F0%9F%91%8B;+Data+Engineer;Turning+raw+data+into+meaningful+solutions;Building+one+pipeline+at+a+time+%E2%9C%A8" alt="Animated introduction for Christine Joy Balansay" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=2800&pause=900&color=FF69B4&center=true&vCenter=true&repeat=true&width=850&height=55&lines=Hi%2C+I%27m+Joy%21+%F0%9F%91%8B;Data+Engineer;Turning+raw+data+into+meaningful+solutions;Building+one+pipeline+at+a+time+%E2%9C%A8" alt="Animated introduction for Christine Joy Balansay" /></a>
 
 ### `🟡 PLAYER 1: JOY` &nbsp; `📍 PHILIPPINES` &nbsp; `🎯 DATA ENGINEER`
 
@@ -23,7 +23,7 @@
 <div align="center">
 
 <a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site">
-  <img width="100%" src="https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/main/assets/pacjoy-game-banner.svg" alt="Play Pac-Joy Data Pipeline Maze with Easy, Average, and Hard Data Engineering levels" />
+  <img width="100%" src="https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/main/assets/pacjoy-game-banner.svg" alt="Play Pac-Joy Data Pipeline Maze with Easy, Average, and SQL Challenge Data Engineering levels" />
 </a>
 
 <br>
@@ -78,7 +78,7 @@ The Top 3 Pipeline Champions are updated from scores submitted inside Pac-Joy.
 
 ## 👾 Player Profile
 
-Hello! I’m **Christine Joy Balansay**, an  **Data Engineer** from the Philippines. With a background in Financial Management, Risk Management Operations, and Business Continuity Planning, I’m learning to turn raw data into reliable, analytics-ready solutions.
+Hello! I’m **Christine Joy Balansay**, a **Data Engineer** from the Philippines. With a background in Financial Management, Risk Management Operations, and Business Continuity Planning, I’m learning to turn raw data into reliable, analytics-ready solutions.
 
 - 🌱 Training in **SQL, Python, Databricks, Delta Lake, and ETL/ELT pipelines**
 - 🧱 Building skills in **data modeling, data warehousing, and star schemas**
