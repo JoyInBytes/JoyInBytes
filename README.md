@@ -1,8 +1,7 @@
 <div align="center">
 
-![Christine Joy Balansay — Data Engineer](https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/main/assets/professional-data-header.svg)
+![Animated Umaru header](https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/main/assets/umaru-header.gif)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=900&color=E36F38&center=true&vCenter=true&width=820&height=45&lines=Building+reliable+data+pipelines;Transforming+raw+data+into+analytics-ready+datasets;Learning%2C+building%2C+and+improving+with+purpose" alt="Animated Data Engineering introduction" /></a>
 
 <a href="https://www.linkedin.com/in/christine-joy-balansay-cfmp-b132b5277/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Christine Joy Balansay on LinkedIn" /></a>
 <a href="https://github.com/JoyInBytes"><img src="https://img.shields.io/badge/GitHub-Follow-77333E?style=for-the-badge&logo=github&logoColor=white" alt="Follow JoyInBytes on GitHub" /></a>
