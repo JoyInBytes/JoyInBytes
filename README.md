@@ -1,143 +1,104 @@
-<!-- JOY IN BYTES | Profile repo: github.com/JoyInBytes/JoyInBytes -->
 <div align="center">
 
-![Joy in Bytes Pac-Man data engineering header](https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/main/assets/joy-pacman-header.svg)
+![Christine Joy Balansay — Data Engineer](https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/main/assets/professional-data-header.svg)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=2800&pause=900&color=FF69B4&center=true&vCenter=true&repeat=true&width=850&height=55&lines=Hi%2C+I%27m+Joy%21+%F0%9F%91%8B;Data+Engineer;Turning+raw+data+into+meaningful+solutions;Building+one+pipeline+at+a+time+%E2%9C%A8" alt="Animated introduction for Christine Joy Balansay" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=900&color=E36F38&center=true&vCenter=true&width=820&height=45&lines=Building+reliable+data+pipelines;Transforming+raw+data+into+analytics-ready+datasets;Learning%2C+building%2C+and+improving+with+purpose" alt="Animated Data Engineering introduction" /></a>
 
-### `🟡 PLAYER 1: JOY` &nbsp; `📍 PHILIPPINES` &nbsp; `🎯 DATA ENGINEER`
-
-<a href="https://www.linkedin.com/in/christine-joy-balansay-cfmp-b132b5277/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00BFFF?style=for-the-badge&labelColor=111827&logo=linkedin&logoColor=white" alt="Connect with Christine Joy Balansay on LinkedIn" /></a>
-<a href="https://github.com/JoyInBytes"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-8A2BE2?style=for-the-badge&labelColor=111827&logo=github&logoColor=white" alt="Follow JoyInBytes on GitHub" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=JoyInBytes&label=PROFILE+VISITORS&color=F47A2A&style=for-the-badge&labelColor=77333E" alt="JoyInBytes profile visitor count" />
-
-<br><br>
-
-`SCORE: CURIOSITY ∞` &nbsp; `LIVES: KEEP LEARNING` &nbsp; `HIGH SCORE: PURPOSE`
+<a href="https://www.linkedin.com/in/christine-joy-balansay-cfmp-b132b5277/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Christine Joy Balansay on LinkedIn" /></a>
+<a href="https://github.com/JoyInBytes"><img src="https://img.shields.io/badge/GitHub-Follow-77333E?style=for-the-badge&logo=github&logoColor=white" alt="Follow JoyInBytes on GitHub" /></a>
 
 </div>
 
 ## 👩‍💻 About Me
 
-Hello! I’m **Christine Joy Balansay**, a **Data Engineer** from the Philippines. With a background in Financial Management, Risk Management Operations, and Business Continuity Planning, I’m learning to turn raw data into reliable, analytics-ready solutions.
+I’m **Christine Joy Balansay**, a Data Engineer from the Philippines with a background in **Financial Management, Risk Management Operations, and Business Continuity Planning**.
 
-- 🌱 Training in **SQL, Python, Databricks, Delta Lake, and ETL/ELT pipelines**
-- 🧱 Building skills in **data modeling, data warehousing, and star schemas**
-- 📊 Transforming trustworthy data into meaningful stories through **Tableau**
-- 🧠 Curious, creative, purpose-driven, and committed to lifelong learning
-- 🎯 Mission: **Building a future in Data Engineering—one pipeline at a time.**
+I build my skills through hands-on projects that transform raw data into clean, reliable, and analytics-ready datasets. My current work focuses on pipeline development, data quality, dimensional modeling, and clear technical documentation.
 
+- 🔧 Building ETL/ELT workflows using **SQL, Python, Databricks, Spark, and Delta Lake**
+- 🏗️ Designing **data warehouses, star schemas, fact tables, and dimensions**
+- ✅ Applying **data cleaning, validation, reconciliation, and incremental loading**
+- 📊 Turning trusted datasets into useful analysis through **Tableau**
+- 🎯 Building a future in Data Engineering—**one pipeline at a time**
 
-## 🧰 Power-Ups & Tools
+## 💼 Core Competencies
+
+| Area | Skills |
+|---|---|
+| **Data Engineering** | ETL/ELT pipelines, batch processing, incremental loading, data quality |
+| **Data Transformation** | SQL, Python, data cleaning, validation, reconciliation |
+| **Lakehouse** | Databricks, Apache Spark, Delta Lake, Medallion Architecture |
+| **Data Modeling** | Dimensional modeling, star schema, fact and dimension tables |
+| **Analytics** | Tableau, KPI design, analytics-ready datasets |
+| **Development** | Git, GitHub, version control, collaboration, technical documentation |
+
+## 🛠️ Technologies & Tools
 
 <div align="center">
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&labelColor=0D1117&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=0D1117&logo=python&logoColor=FFD43B)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&labelColor=0D1117&logo=databricks&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&labelColor=0D1117&logo=apachespark&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&labelColor=0D1117&logo=delta&logoColor=white)
-![ETL/ELT](https://img.shields.io/badge/ETL_%2F_ELT-8A2BE2?style=for-the-badge&labelColor=0D1117&logo=buffer&logoColor=white)
-![Data Modeling](https://img.shields.io/badge/Data_Modeling-FF69B4?style=for-the-badge&labelColor=0D1117&logo=databricks&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&labelColor=0D1117&logo=tableau&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=0D1117&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&labelColor=24292F&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=24292F&logo=python&logoColor=FFD43B)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&labelColor=24292F&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&labelColor=24292F&logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&labelColor=24292F&logo=delta&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-77333E?style=for-the-badge&labelColor=24292F&logo=databricks&logoColor=white)
+![ETL/ELT](https://img.shields.io/badge/ETL_%2F_ELT-E986A4?style=for-the-badge&labelColor=24292F&logo=buffer&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&labelColor=24292F&logo=tableau&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=24292F&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&labelColor=24292F&logo=github&logoColor=white)
 
 </div>
 
-## 📈 Player Statistics
+## 📈 GitHub Activity
 
 <div align="center">
 
-<a href="https://github.com/JoyInBytes"><img height="170" src="https://github-readme-stats.vercel.app/api?username=JoyInBytes&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=FFD700&icon_color=FF69B4&text_color=FFFFFF&ring_color=00BFFF" alt="JoyInBytes GitHub profile statistics" /></a>
-<a href="https://github.com/JoyInBytes?tab=repositories"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyInBytes&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF" alt="Most-used languages across JoyInBytes repositories" /></a>
+<a href="https://github.com/JoyInBytes"><img height="170" src="https://github-readme-stats.vercel.app/api?username=JoyInBytes&show_icons=true&hide_border=true&bg_color=FFFBF7&title_color=77333E&icon_color=E36F38&text_color=4B3940" alt="JoyInBytes GitHub statistics" /></a>
+<a href="https://github.com/JoyInBytes?tab=repositories"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyInBytes&layout=compact&hide_border=true&bg_color=FFFBF7&title_color=77333E&text_color=4B3940" alt="Most-used languages across JoyInBytes repositories" /></a>
 
 <br><br>
 
-<a href="https://github.com/JoyInBytes"><img src="https://streak-stats.demolab.com?user=JoyInBytes&theme=radical&hide_border=true&background=0D1117&ring=FFD700&fire=FF69B4&currStreakLabel=00BFFF&sideLabels=FFFFFF&dates=94A3B8" alt="JoyInBytes GitHub contribution streak" /></a>
-
-<br><br>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JoyInBytes&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6" alt="JoyInBytes GitHub achievement trophies" /></a>
+<a href="https://github.com/JoyInBytes"><img src="https://streak-stats.demolab.com?user=JoyInBytes&hide_border=true&background=FFFBF7&ring=E36F38&fire=E986A4&currStreakLabel=77333E&sideLabels=4B3940&dates=8A737B&currStreakNum=4B3940&sideNums=4B3940" alt="JoyInBytes GitHub contribution streak" /></a>
 
 </div>
 
-## 🎮 Featured Game: Pac-Joy Data Pipeline Maze
+## 🟡 Creative Data Engineering Project
+
+**Pac-Joy: Data Pipeline Maze** is an interactive learning project that tests Data Engineering concepts across Easy, Average, and SQL Challenge levels.
 
 <div align="center">
 
-<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site">
-  <img width="100%" src="https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/main/assets/pacjoy-game-banner.svg" alt="Play Pac-Joy Data Pipeline Maze with Easy, Average, and SQL Challenge Data Engineering levels" />
-</a>
+<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site"><img src="https://img.shields.io/badge/Explore_Pac--Joy-Data_Pipeline_Maze-E36F38?style=for-the-badge&labelColor=77333E&logo=databricks&logoColor=white" alt="Explore the Pac-Joy Data Pipeline Maze" /></a>
+
+</div>
+
+<details>
+<summary><strong>View the live Pac-Joy leaderboard</strong></summary>
 
 <br>
 
-### 🟡 Can you guide Pac-Joy from raw data to business insights?
+<div align="center">
 
-Complete nine Data Engineering challenges across Easy, Average, and SQL Challenge zones.
-
-<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site">
-  <img src="https://img.shields.io/badge/%E2%96%B6_PLAY_NOW-PAC--JOY_DATA_MAZE-F47A2A?style=for-the-badge&labelColor=77333E&logo=databricks&logoColor=white" alt="Play Pac-Joy Data Pipeline Maze now" />
-</a>
-
-
-<br><br>
-
-| 🟠 Easy Zone | 🌸 Average Zone | 🍒 Challenge Zone |
-|:---:|:---:|:---:|
-| Raw Data | Delta Lake | SQL SELECT |
-| Data Cleaning | Star Schema | SQL Filtering |
-| ETL Fundamentals | Incremental Loads | SQL GROUP BY |
-| **300 points** | **300 points** | **300 points** |
-
-### `🟡 START` → `📦 RAW` → `🧹 CLEAN` → `⚙️ TRANSFORM` → `🏛️ MODEL` → `💡 INSIGHT` → `🏆 900`
-
-<sub>Interactive game opens in a new page because GitHub README files do not support JavaScript.</sub>
+<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site"><img width="100%" src="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site/api/leaderboard-card" alt="Live Pac-Joy Top 3 leaderboard" /></a>
 
 </div>
 
----
+</details>
 
-## 🏆 Pac-Joy Live Leaderboard
-
-<div align="center">
-
-The Top 3 Pipeline Champions are updated from scores submitted inside Pac-Joy.
-
-<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site">
-  <img width="100%" src="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site/api/leaderboard-card" alt="Live Pac-Joy Top 3 Pipeline Champions leaderboard" />
-</a>
-
-<br>
-
-<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site">
-  <img src="https://img.shields.io/badge/PLAY_AND_JOIN-THE_LEADERBOARD-E986A4?style=for-the-badge&labelColor=77333E&logo=trophy&logoColor=white" alt="Play Pac-Joy and join the leaderboard" />
-</a>
-
-</div>
-
----
-
-## 👻 Pac-Man Contribution Chase
+## 🟡 Contribution Journey
 
 <div align="center">
 
-<!-- Generated through: github.com/abozanona/pacman-contribution-graph -->
 <a href="https://github.com/JoyInBytes"><img src="https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/output/pacman-contribution-graph-dark.svg" alt="Animated Pac-Man traveling through JoyInBytes GitHub contributions" /></a>
 
-`🟡 ᗧ········🍒········👻` &nbsp; [Fallback: view my contribution activity](https://github.com/JoyInBytes)
-
 </div>
 
 ---
 
 <div align="center">
 
-### ✨ “Fueled by lifelong learning, grounded in purpose; Data Engineering—one pipeline at a time.” ✨
+### “Fueled by lifelong learning, grounded in purpose—one pipeline at a time.”
 
-<a href="https://www.linkedin.com/in/christine-joy-balansay-cfmp-b132b5277/"><img src="https://img.shields.io/badge/READY_PLAYER_TWO%3F-LET'S_CONNECT-FF69B4?style=for-the-badge&labelColor=111827&logo=linkedin&logoColor=white" alt="Connect with Christine Joy Balansay on LinkedIn" /></a>
-
-![Joy in Bytes colorful pixel footer](https://capsule-render.vercel.app/api?type=pixel&height=100&section=footer&color=gradient&customColorList=6,12,18,20,24)
+<img src="https://komarev.com/ghpvc/?username=JoyInBytes&label=PROFILE+VISITORS&color=E36F38&style=for-the-badge&labelColor=77333E" alt="JoyInBytes profile visitor count" />
 
 </div>
