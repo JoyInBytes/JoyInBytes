@@ -1,6 +1,6 @@
 <div align="center">
 
-![Animated Umaru solving a Rubik's Cube in a Pac-Man arcade header](https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/main/assets/umaru-header.gif?v=3)
+![Animated Umaru solving a Rubik's Cube in a Pac-Man arcade header](https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/main/assets/umaru-header.gif?v=4)
 
 
 <a href="https://www.linkedin.com/in/christine-joy-balansay-cfmp-b132b5277/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Christine Joy Balansay on LinkedIn" /></a>
@@ -62,28 +62,32 @@ I build my skills through hands-on projects that transform raw data into clean, 
 
 </div>
 
-## 🟡 Creative Data Engineering Project
+## 🟡 Pac-Joy: Data Pipeline Maze
 
-**Pac-Joy: Data Pipeline Maze** is an interactive learning project that tests Data Engineering concepts across Easy, Average, and SQL Challenge levels.
+A compact interactive learning game that tests Data Engineering concepts across **Easy**, **Average**, and **SQL Challenge** levels.
+
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img width="95" src="https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/main/assets/umaru-pointing-pacjoy.png" alt="Umaru pointing toward the Pac-Joy game" />
+</td>
+<td align="left">
+<strong>Ready to enter the data maze?</strong><br>
+Guide Pac-Joy from raw data to trusted business insights.<br><br>
+<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site"><img src="https://img.shields.io/badge/PLAY_PAC--JOY-DATA_PIPELINE_MAZE-FFD800?style=for-the-badge&labelColor=1677FF&logo=databricks&logoColor=white" alt="Play the Pac-Joy Data Pipeline Maze" /></a>
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site"><img src="https://img.shields.io/badge/Explore_Pac--Joy-Data_Pipeline_Maze-E36F38?style=for-the-badge&labelColor=77333E&logo=databricks&logoColor=white" alt="Explore the Pac-Joy Data Pipeline Maze" /></a>
+#### 🏆 Pac-Joy Leaderboard
+
+<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site"><img width="520" src="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site/api/leaderboard-card" alt="Live compact Pac-Joy leaderboard showing the top players" /></a>
+
+<sub>If the live card does not load, <a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site">open Pac-Joy to view the leaderboard</a>.</sub>
 
 </div>
-
-<details>
-<summary><strong>View the live Pac-Joy leaderboard</strong></summary>
-
-<br>
-
-<div align="center">
-
-<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site"><img width="100%" src="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site/api/leaderboard-card" alt="Live Pac-Joy Top 3 leaderboard" /></a>
-
-</div>
-
-</details>
 
 ## 🟡 Contribution Journey
 
