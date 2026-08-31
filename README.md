@@ -18,6 +18,51 @@
 
 </div>
 
+## 👩‍💻 About Me
+
+Hello! I’m **Christine Joy Balansay**, a **Data Engineer** from the Philippines. With a background in Financial Management, Risk Management Operations, and Business Continuity Planning, I’m learning to turn raw data into reliable, analytics-ready solutions.
+
+- 🌱 Training in **SQL, Python, Databricks, Delta Lake, and ETL/ELT pipelines**
+- 🧱 Building skills in **data modeling, data warehousing, and star schemas**
+- 📊 Transforming trustworthy data into meaningful stories through **Tableau**
+- 🧠 Curious, creative, purpose-driven, and committed to lifelong learning
+- 🎯 Mission: **Building a future in Data Engineering—one pipeline at a time.**
+
+
+## 🧰 Power-Ups & Tools
+
+<div align="center">
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&labelColor=0D1117&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=0D1117&logo=python&logoColor=FFD43B)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&labelColor=0D1117&logo=databricks&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&labelColor=0D1117&logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&labelColor=0D1117&logo=delta&logoColor=white)
+![ETL/ELT](https://img.shields.io/badge/ETL_%2F_ELT-8A2BE2?style=for-the-badge&labelColor=0D1117&logo=buffer&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-FF69B4?style=for-the-badge&labelColor=0D1117&logo=databricks&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&labelColor=0D1117&logo=tableau&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=0D1117&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white)
+
+</div>
+
+## 📈 Player Statistics
+
+<div align="center">
+
+<a href="https://github.com/JoyInBytes"><img height="170" src="https://github-readme-stats.vercel.app/api?username=JoyInBytes&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=FFD700&icon_color=FF69B4&text_color=FFFFFF&ring_color=00BFFF" alt="JoyInBytes GitHub profile statistics" /></a>
+<a href="https://github.com/JoyInBytes?tab=repositories"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyInBytes&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF" alt="Most-used languages across JoyInBytes repositories" /></a>
+
+<br><br>
+
+<a href="https://github.com/JoyInBytes"><img src="https://streak-stats.demolab.com?user=JoyInBytes&theme=radical&hide_border=true&background=0D1117&ring=FFD700&fire=FF69B4&currStreakLabel=00BFFF&sideLabels=FFFFFF&dates=94A3B8" alt="JoyInBytes GitHub contribution streak" /></a>
+
+<br><br>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JoyInBytes&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6" alt="JoyInBytes GitHub achievement trophies" /></a>
+
+</div>
+
 ## 🎮 Featured Game: Pac-Joy Data Pipeline Maze
 
 <div align="center">
@@ -30,14 +75,12 @@
 
 ### 🟡 Can you guide Pac-Joy from raw data to business insights?
 
-Avoid the **Data Bug ghosts**, collect **100 points per byte**, and complete all nine Data Engineering challenges.
+Complete nine Data Engineering challenges across Easy, Average, and SQL Challenge zones.
 
 <a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site">
   <img src="https://img.shields.io/badge/%E2%96%B6_PLAY_NOW-PAC--JOY_DATA_MAZE-F47A2A?style=for-the-badge&labelColor=77333E&logo=databricks&logoColor=white" alt="Play Pac-Joy Data Pipeline Maze now" />
 </a>
-<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site">
-  <img src="https://img.shields.io/badge/HIGH_SCORE-900_POINTS-FFD35A?style=for-the-badge&labelColor=77333E&logo=trophy&logoColor=white" alt="Pac-Joy game high score is 900 points" />
-</a>
+
 
 <br><br>
 
@@ -75,61 +118,6 @@ The Top 3 Pipeline Champions are updated from scores submitted inside Pac-Joy.
 </div>
 
 ---
-
-## 👾 Player Profile
-
-Hello! I’m **Christine Joy Balansay**, a **Data Engineer** from the Philippines. With a background in Financial Management, Risk Management Operations, and Business Continuity Planning, I’m learning to turn raw data into reliable, analytics-ready solutions.
-
-- 🌱 Training in **SQL, Python, Databricks, Delta Lake, and ETL/ELT pipelines**
-- 🧱 Building skills in **data modeling, data warehousing, and star schemas**
-- 📊 Transforming trustworthy data into meaningful stories through **Tableau**
-- 🧠 Curious, creative, purpose-driven, and committed to lifelong learning
-- 🎯 Mission: **Building a future in Data Engineering—one pipeline at a time.**
-
-<div align="center">`🟡 ᗧ` · `BYTE` · `BYTE` · `BYTE` · `BYTE` · `BYTE` &nbsp; `👻 DATA BUGS`</div>
-
-## 🧰 Power-Ups & Tools
-
-<div align="center">
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&labelColor=0D1117&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=0D1117&logo=python&logoColor=FFD43B)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&labelColor=0D1117&logo=databricks&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&labelColor=0D1117&logo=apachespark&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&labelColor=0D1117&logo=delta&logoColor=white)
-![ETL/ELT](https://img.shields.io/badge/ETL_%2F_ELT-8A2BE2?style=for-the-badge&labelColor=0D1117&logo=buffer&logoColor=white)
-![Data Modeling](https://img.shields.io/badge/Data_Modeling-FF69B4?style=for-the-badge&labelColor=0D1117&logo=databricks&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&labelColor=0D1117&logo=tableau&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=0D1117&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white)
-
-</div>
-
-## 🌟 Featured Missions
-
-| Mission | Skills Demonstrated | Status |
-|---|---|:---:|
-| [🎵 Chinook Sales Data Warehouse](https://github.com/JoyInBytes) | Databricks, Delta Lake, star schema, validation, Tableau | `IN PROGRESS` |
-| [🛒 Instacart Data Pipeline](https://github.com/JoyInBytes) | Collaborative ETL/ELT, transformations, data quality | `NEW QUEST` |
-| [📚 Data Engineering Learning Notes](https://github.com/JoyInBytes/learning-notes) | SQL, Git, Databricks, and pipeline documentation | `LEVELING UP` |
-| [✨ Future Portfolio Project](https://github.com/JoyInBytes?tab=repositories) | End-to-end, production-minded data engineering | `LOCKED` |
-
-## 📈 Player Statistics
-
-<div align="center">
-
-<a href="https://github.com/JoyInBytes"><img height="170" src="https://github-readme-stats.vercel.app/api?username=JoyInBytes&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=FFD700&icon_color=FF69B4&text_color=FFFFFF&ring_color=00BFFF" alt="JoyInBytes GitHub profile statistics" /></a>
-<a href="https://github.com/JoyInBytes?tab=repositories"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyInBytes&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF" alt="Most-used languages across JoyInBytes repositories" /></a>
-
-<br><br>
-
-<a href="https://github.com/JoyInBytes"><img src="https://streak-stats.demolab.com?user=JoyInBytes&theme=radical&hide_border=true&background=0D1117&ring=FFD700&fire=FF69B4&currStreakLabel=00BFFF&sideLabels=FFFFFF&dates=94A3B8" alt="JoyInBytes GitHub contribution streak" /></a>
-
-<br><br>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JoyInBytes&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6" alt="JoyInBytes GitHub achievement trophies" /></a>
-
-</div>
 
 ## 👻 Pac-Man Contribution Chase
 
