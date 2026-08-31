@@ -43,100 +43,29 @@ Hello! I’m **Christine Joy Balansay**, an aspiring **Data Engineer** from the 
 
 </div>
 
-## 🟡 Data Pipeline Maze
+## 🟡 Pac-Joy: Data Pipeline Maze
 
 <div align="center">
 
-### Help Pac-Joy deliver data safely to the Insight Vault!
+### Can you guide Pac-Joy from raw data to business insights?
 
-Open each level, choose an answer, then reveal the correct byte. Every correct answer earns **100 points**.
+Choose an answer, avoid the Data Bug ghosts, collect **100 points per byte**, and unlock the Pipeline Pathfinder badge.
 
-`START` → `📦 RAW` → `🧹 CLEAN` → `⚙️ TRANSFORM` → `🏛️ MODEL` → `📊 INSIGHT` → `🏆 500 PTS`
+<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site">
+  <img src="https://img.shields.io/badge/PLAY_PAC--JOY-DATA_PIPELINE_MAZE-F47A2A?style=for-the-badge&labelColor=77333E&logo=databricks&logoColor=white" alt="Play the Pac-Joy Data Pipeline Maze" />
+</a>
 
-</div>
+<br><br>
 
-<details><summary><strong>🟡 LEVEL 1 — Collect the Raw Byte (+100)</strong></summary>
+| Zone | Difficulty | Topics |
+|:---:|:---:|---|
+| `01–03` | 🟠 **EASY** | Raw data, data cleaning, ETL |
+| `04–06` | 🌸 **AVERAGE** | Delta Lake, star schema, incremental loading |
+| `07–09` | 🍒 **HARD** | Data quality, SCD Type 2, pipeline reconciliation |
 
-### What is raw data?
+`START` → `📦 RAW` → `🧹 CLEAN` → `⚙️ TRANSFORM` → `🏛️ MODEL` → `📊 INSIGHT` → `🏆 900 PTS`
 
-- **A.** Data exactly as collected from its original source
-- **B.** A finished executive dashboard
-- **C.** A dimensional model ready for analysis
-
-<details><summary>🍒 Reveal answer</summary>
-
-**A.** Raw data comes directly from a source and has not yet been cleaned or transformed.
-
-`🟡 ᗧ···🍒` **SCORE: 100 / 500**
-</details></details>
-
-<details><summary><strong>🟡 LEVEL 2 — Escape the Duplicate Ghost (+100)</strong></summary>
-
-### Which action belongs in data cleaning?
-
-- **A.** Add random rows
-- **B.** Remove duplicates and handle missing values
-- **C.** Rename every value “clean”
-
-<details><summary>🍒 Reveal answer</summary>
-
-**B.** Cleaning handles duplicates, missing values, invalid records, and incorrect formats.
-
-`🟡 ᗧ···👻···🍒` **SCORE: 200 / 500**
-</details></details>
-
-<details><summary><strong>🟡 LEVEL 3 — Power Up the Pipeline (+100)</strong></summary>
-
-### What does ETL mean?
-
-- **A.** Extract, Transform, Load
-- **B.** Enter, Test, Launch
-- **C.** Evaluate, Track, List
-
-<details><summary>🍒 Reveal answer</summary>
-
-**A.** ETL extracts data from sources, transforms it, and loads it into a target system.
-
-`🟡 ᗧ···⚡···🍒` **SCORE: 300 / 500**
-</details></details>
-
-<details><summary><strong>🟡 LEVEL 4 — Enter the Star Schema (+100)</strong></summary>
-
-### What usually stores measurable business events in a star schema?
-
-- **A.** A fact table
-- **B.** A README file
-- **C.** A Git branch
-
-<details><summary>🍒 Reveal answer</summary>
-
-**A.** A fact table stores measurable events; dimensions add context such as customer, product, and date.
-
-`🟡 ᗧ···⭐···🍒` **SCORE: 400 / 500**
-</details></details>
-
-<details><summary><strong>🟡 LEVEL 5 — Unlock Business Insights (+100)</strong></summary>
-
-### Why do Data Engineers build reliable pipelines?
-
-- **A.** To make data harder to access
-- **B.** To deliver trustworthy data for analytics and decisions
-- **C.** To replace business questions with code
-
-<details><summary>🍒 Reveal answer</summary>
-
-**B.** Reliable pipelines deliver accurate, timely, and analytics-ready data for better decisions.
-
-`🟡 ᗧ···💡···🏆` **FINAL SCORE: 500 / 500 — PIPELINE COMPLETE!**
-</details></details>
-
-<div align="center">
-
-### 🏆 Beginner Data Engineer Badge Unlocked
-
-`[████████████████████] 500 / 500 XP`
-
-<sub>This mini-game uses GitHub-native expandable cards, so it works directly inside the README without JavaScript.</sub>
+<sub>The game opens in a separate interactive page because GitHub README files do not support JavaScript.</sub>
 
 </div>
 
