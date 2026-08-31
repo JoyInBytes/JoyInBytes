@@ -28,7 +28,7 @@ I build my skills through hands-on projects that transform raw data into clean, 
 | **Data Transformation** | SQL, Python, data cleaning, validation, reconciliation |
 | **Lakehouse** | Databricks, Apache Spark, Delta Lake, Medallion Architecture |
 | **Data Modeling** | Dimensional modeling, star schema, fact and dimension tables |
-| **Analytics** | Tableau, KPI design, analytics-ready datasets |
+| **Analytics & Reporting** | Excel, Tableau, KPI design, analytics-ready datasets |
 | **Development** | Git, GitHub, version control, collaboration, technical documentation |
 
 ## 🛠️ Technologies & Tools
@@ -42,6 +42,7 @@ I build my skills through hands-on projects that transform raw data into clean, 
 ![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&labelColor=24292F&logo=delta&logoColor=white)
 ![Data Modeling](https://img.shields.io/badge/Data_Modeling-77333E?style=for-the-badge&labelColor=24292F&logo=databricks&logoColor=white)
 ![ETL/ELT](https://img.shields.io/badge/ETL_%2F_ELT-E986A4?style=for-the-badge&labelColor=24292F&logo=buffer&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&labelColor=24292F&logo=microsoftexcel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&labelColor=24292F&logo=tableau&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=24292F&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&labelColor=24292F&logo=github&logoColor=white)
