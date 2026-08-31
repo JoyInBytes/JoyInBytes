@@ -3,12 +3,16 @@
 
 ![Joy in Bytes Pac-Man data engineering header](https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/main/assets/joy-pacman-header.svg)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=2800&pause=900&color=FF69B4&center=true&vCenter=true&repeat=true&width=850&height=55&lines=Hi%2C+I%27m+Joy%21+%F0%9F%91%8B;Aspiring+Data+Engineer;Turning+raw+data+into+meaningful+solutions;Building+one+pipeline+at+a+time+%E2%9C%A8" alt="Animated introduction for Christine Joy Balansay" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=2800&pause=900&color=FF69B4&center=true&vCenter=true&repeat=true&width=850&height=55&lines=Hi%2C+I%27m+Joy%21+%F0%9F%91%8B;+Data+Engineer;Turning+raw+data+into+meaningful+solutions;Building+one+pipeline+at+a+time+%E2%9C%A8" alt="Animated introduction for Christine Joy Balansay" /></a>
 
 ### `🟡 PLAYER 1: JOY` &nbsp; `📍 PHILIPPINES` &nbsp; `🎯 DATA ENGINEER`
 
 <a href="https://www.linkedin.com/in/christine-joy-balansay-cfmp-b132b5277/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00BFFF?style=for-the-badge&labelColor=111827&logo=linkedin&logoColor=white" alt="Connect with Christine Joy Balansay on LinkedIn" /></a>
 <a href="https://github.com/JoyInBytes"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-8A2BE2?style=for-the-badge&labelColor=111827&logo=github&logoColor=white" alt="Follow JoyInBytes on GitHub" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=JoyInBytes&label=PROFILE+VISITORS&color=F47A2A&style=for-the-badge&labelColor=77333E" alt="JoyInBytes profile visitor count" />
+
+<br><br>
 
 `SCORE: CURIOSITY ∞` &nbsp; `LIVES: KEEP LEARNING` &nbsp; `HIGH SCORE: PURPOSE`
 
@@ -37,11 +41,11 @@ Avoid the **Data Bug ghosts**, collect **100 points per byte**, and complete all
 
 <br><br>
 
-| 🟠 Easy Zone | 🌸 Average Zone | 🍒 Hard Zone |
+| 🟠 Easy Zone | 🌸 Average Zone | 🍒 Challenge Zone |
 |:---:|:---:|:---:|
-| Raw Data | Delta Lake | Data Quality |
-| Data Cleaning | Star Schema | SCD Type 2 |
-| ETL Fundamentals | Incremental Loads | Reconciliation |
+| Raw Data | Delta Lake | SQL SELECT |
+| Data Cleaning | Star Schema | SQL Filtering |
+| ETL Fundamentals | Incremental Loads | SQL GROUP BY |
 | **300 points** | **300 points** | **300 points** |
 
 ### `🟡 START` → `📦 RAW` → `🧹 CLEAN` → `⚙️ TRANSFORM` → `🏛️ MODEL` → `💡 INSIGHT` → `🏆 900`
@@ -52,9 +56,29 @@ Avoid the **Data Bug ghosts**, collect **100 points per byte**, and complete all
 
 ---
 
+## 🏆 Pac-Joy Live Leaderboard
+
+<div align="center">
+
+The Top 3 Pipeline Champions are updated from scores submitted inside Pac-Joy.
+
+<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site">
+  <img width="100%" src="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site/api/leaderboard-card" alt="Live Pac-Joy Top 3 Pipeline Champions leaderboard" />
+</a>
+
+<br>
+
+<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site">
+  <img src="https://img.shields.io/badge/PLAY_AND_JOIN-THE_LEADERBOARD-E986A4?style=for-the-badge&labelColor=77333E&logo=trophy&logoColor=white" alt="Play Pac-Joy and join the leaderboard" />
+</a>
+
+</div>
+
+---
+
 ## 👾 Player Profile
 
-Hello! I’m **Christine Joy Balansay**, an aspiring **Data Engineer** from the Philippines. With a background in Financial Management, Risk Management Operations, and Business Continuity Planning, I’m learning to turn raw data into reliable, analytics-ready solutions.
+Hello! I’m **Christine Joy Balansay**, an  **Data Engineer** from the Philippines. With a background in Financial Management, Risk Management Operations, and Business Continuity Planning, I’m learning to turn raw data into reliable, analytics-ready solutions.
 
 - 🌱 Training in **SQL, Python, Databricks, Delta Lake, and ETL/ELT pipelines**
 - 🧱 Building skills in **data modeling, data warehousing, and star schemas**
