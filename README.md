@@ -68,12 +68,10 @@ A compact interactive learning game that tests Data Engineering concepts across 
 
 <table align="center">
 <tr>
-<td align="center" width="90">
-<img width="68" src="https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/main/assets/umaru-clicking-pacjoy.gif?v=1" alt="Tiny animated Umaru clicking the Play Pac-Joy button" />
-</td>
-<td align="left">
+<td align="center">
 <strong>Ready to enter the data maze?</strong><br>
 Guide Pac-Joy from raw data to trusted business insights.<br><br>
+<img width="120" src="https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/main/assets/umaru-pop-transform-pacjoy.gif?v=1" alt="Umaru transforming from her normal anime form into a tiny chibi ready to play Pac-Joy" /><br>
 <a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site"><img src="https://img.shields.io/badge/PLAY_PAC--JOY-DATA_PIPELINE_MAZE-FFD800?style=for-the-badge&labelColor=1677FF&logo=databricks&logoColor=white" alt="Play the Pac-Joy Data Pipeline Maze" /></a>
 </td>
 </tr>
