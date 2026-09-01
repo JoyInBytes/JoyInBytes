@@ -64,26 +64,38 @@ I build my skills through hands-on projects that transform raw data into clean, 
 
 ## 🟡 Pac-Joy: Data Pipeline Maze
 
-A compact interactive learning game that tests Data Engineering concepts across **Easy**, **Average**, and **SQL Challenge** levels.
+> **Interactive Data Engineering portfolio project**
 
-<table align="center">
-<tr>
-<td align="center">
-<strong>Ready to enter the data maze?</strong><br>
-Guide Pac-Joy from raw data to trusted business insights.<br><br>
-<img width="120" src="https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/main/assets/umaru-pop-transform-pacjoy.gif?v=1" alt="Umaru transforming from her normal anime form into a tiny chibi ready to play Pac-Joy" /><br>
-<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site"><img src="https://img.shields.io/badge/PLAY_PAC--JOY-DATA_PIPELINE_MAZE-FFD800?style=for-the-badge&labelColor=1677FF&logo=databricks&logoColor=white" alt="Play the Pac-Joy Data Pipeline Maze" /></a>
-</td>
-</tr>
-</table>
+Guide Pac-Joy through a complete data pipeline—from raw ingestion and transformation to validated, analytics-ready insights. Complete **Data Engineering and SQL challenges** across Easy, Average, and Challenge levels.
+
+**What it demonstrates:** staged pipeline thinking, SQL validation, data-quality checks, and persistent score tracking through a deployed application.
 
 <div align="center">
 
-#### 🏆 Pac-Joy Top 4 Leaderboard
+<p><strong>Pipeline Journey</strong></p>
 
-<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site"><img width="520" src="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site/api/leaderboard-card" alt="Live Pac-Joy Top 4 podium leaderboard" /></a>
+<p><code>RAW DATA</code> → <code>TRANSFORM</code> → <code>VALIDATE</code> → <code>INSIGHTS</code></p>
 
-<sub>If the live card does not load, <a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site">open Pac-Joy to view the leaderboard</a>.</sub>
+<p>
+<img src="https://img.shields.io/badge/SQL-0D1B2A?style=flat-square&logo=postgresql&logoColor=FFD700" alt="SQL" />
+<img src="https://img.shields.io/badge/Python-0D1B2A?style=flat-square&logo=python&logoColor=FFD700" alt="Python" />
+<img src="https://img.shields.io/badge/Databricks-0D1B2A?style=flat-square&logo=databricks&logoColor=FF6B35" alt="Databricks" />
+<img src="https://img.shields.io/badge/Delta_Lake-0D1B2A?style=flat-square&logo=delta&logoColor=1296F3" alt="Delta Lake" />
+<img src="https://img.shields.io/badge/ETL_%2F_ELT-0D1B2A?style=flat-square&logo=buffer&logoColor=1296F3" alt="ETL and ELT pipelines" />
+<img src="https://img.shields.io/badge/Data_Quality-0D1B2A?style=flat-square&logo=checkmarx&logoColor=FFD700" alt="Data Quality" />
+</p>
+
+<p><img width="72" src="https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/main/assets/pacjoy-cta-mascot.gif?v=1" alt="Small animated Pac-Joy mascot moving toward and clicking the Play Pac-Joy button" /></p>
+
+<p><a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site"><img src="https://img.shields.io/badge/PLAY_PAC--JOY-1296F3?style=for-the-badge&labelColor=0D1B2A&logo=databricks&logoColor=FFD700" alt="Play the Pac-Joy Data Pipeline Maze" /></a></p>
+
+<sub>9 challenges • 3 difficulty levels • live score tracking</sub>
+
+### 🏆 Live Top 4
+
+<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site"><img width="720" src="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site/api/leaderboard-card?theme=professional-v2" alt="Live Pac-Joy leaderboard showing first, second, third, and fourth place" /></a>
+
+<sub>If the live card is unavailable, <a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site">open Pac-Joy to view the current rankings</a>.</sub>
 
 </div>
 
