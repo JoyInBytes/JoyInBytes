@@ -68,8 +68,8 @@ A compact interactive learning game that tests Data Engineering concepts across 
 
 <table align="center">
 <tr>
-<td align="center" width="120">
-<img width="95" src="https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/main/assets/umaru-pointing-pacjoy.gif?v=2" alt="Umaru pointing toward the Pac-Joy game" />
+<td align="center" width="90">
+<img width="68" src="https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/main/assets/umaru-clicking-pacjoy.gif?v=1" alt="Tiny animated Umaru clicking the Play Pac-Joy button" />
 </td>
 <td align="left">
 <strong>Ready to enter the data maze?</strong><br>
