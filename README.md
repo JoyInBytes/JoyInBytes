@@ -1,6 +1,6 @@
 <div align="center">
 
-![Joy in Bytes profile header with animated Umaru and alternating Data Engineer greeting](./assets/umaru-greeting-header.svg?v=7)
+![It’s JoyInBytes profile header with animated Umaru and alternating Data Engineer taglines](./assets/umaru-greeting-header.svg?v=8)
 
 
 <a href="https://www.linkedin.com/in/christine-joy-balansay-cfmp-b132b5277/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Christine Joy Balansay on LinkedIn" /></a>
