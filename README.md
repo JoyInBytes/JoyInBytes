@@ -54,7 +54,7 @@ I build my skills through hands-on projects that transform raw data into clean, 
 <div align="center">
 
 <a href="https://github.com/JoyInBytes">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JoyInBytes&bg_color=0D1117&color=C9D1D9&line=2F81F7&point=FFD700&area=true&area_color=2F81F7&hide_border=true&custom_title=JoyInBytes%20Contribution%20Graph" alt="JoyInBytes GitHub contribution graph" />
+  <img width="100%" src="https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/output/pacman-contribution-graph-dark.svg" alt="JoyInBytes animated Pac-Man contribution graph" />
 </a>
 
 <sub>Building consistently through data engineering projects, SQL practice, and technical documentation.</sub>
@@ -80,13 +80,15 @@ A playful, interactive project that turns Data Engineering concepts into nine pr
 
 ### 🏆 Leaderboard
 
-**9 challenges**  
-**3 difficulty levels**  
-**900 maximum points**
+| Rank | Player | Score |
+|:---:|:---|---:|
+| 🥇 | **Top spot open** | — |
+| 🥈 | **Your name here** | — |
+| 🥉 | **Your name here** | — |
 
-Track top scores and completed runs.
+<sub>Complete all 9 challenges and score up to **900 points**.</sub>
 
-<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site"><img src="https://img.shields.io/badge/VIEW_RANKINGS-77333E?style=for-the-badge&logo=githubsponsors&logoColor=FFD700" alt="View Pac-Joy leaderboard" /></a>
+<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site"><img src="https://img.shields.io/badge/OPEN_LIVE_LEADERBOARD-77333E?style=flat-square&logo=githubsponsors&logoColor=FFD700" alt="Open the live Pac-Joy leaderboard" /></a>
 
 </td>
 </tr>
