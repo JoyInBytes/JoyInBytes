@@ -49,53 +49,48 @@ I build my skills through hands-on projects that transform raw data into clean, 
 
 </div>
 
-## 📊 GitHub Activity
+## 📊 Contribution Activity
 
 <div align="center">
 
-<a href="https://github.com/JoyInBytes"><img width="100%" src="https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/output/pacman-contribution-graph-dark.svg" alt="JoyInBytes contribution graph with an animated Pac-Man data journey" /></a>
+<a href="https://github.com/JoyInBytes">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JoyInBytes&bg_color=0D1117&color=C9D1D9&line=2F81F7&point=FFD700&area=true&area_color=2F81F7&hide_border=true&custom_title=JoyInBytes%20Contribution%20Graph" alt="JoyInBytes GitHub contribution graph" />
+</a>
 
-<a href="https://github.com/JoyInBytes"><img width="70%" src="https://streak-stats.demolab.com?user=JoyInBytes&hide_border=true&background=FFFBF7&ring=E36F38&fire=E986A4&currStreakLabel=77333E&sideLabels=4B3940&dates=8A737B&currStreakNum=4B3940&sideNums=4B3940" alt="JoyInBytes GitHub contribution streak" /></a>
-
-<sub>Consistent practice through data engineering projects, SQL challenges, and technical documentation.</sub>
-
-</div>
-
-## 🟡 Featured Project · Pac-Joy Data Pipeline Maze
-
-<div align="center">
-
-<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site"><img width="100%" src="https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/main/assets/pacjoy-game-banner.svg" alt="Pac-Joy Data Pipeline Maze — an interactive Data Engineering challenge" /></a>
+<sub>Building consistently through data engineering projects, SQL practice, and technical documentation.</sub>
 
 </div>
 
-### Learn Data Engineering by moving through the pipeline
+## 🟡 Featured Project · Pac-Joy
 
-**Pac-Joy** turns core pipeline concepts into a playable portfolio experience. Players solve nine SQL and Data Engineering challenges while progressing from raw data to analytics-ready insights.
+<table>
+<tr>
+<td width="68%" valign="top">
 
-| Pipeline stage | Challenge focus | Skill demonstrated |
-|---|---|---|
-| **Raw Data** | Inspect sources and identify issues | Data profiling and ingestion thinking |
-| **Transform** | Clean, type, join, and model data | SQL transformation and dimensional modeling |
-| **Validate** | Test quality rules and reconcile results | Data quality and validation |
-| **Insights** | Deliver trusted, usable outputs | Analytics-ready pipeline design |
+### Data Pipeline Maze
 
-<div align="center">
+A playful, interactive project that turns Data Engineering concepts into nine practical challenges—from raw data inspection to analytics-ready insights.
 
-<img src="https://img.shields.io/badge/SQL-0D1B2A?style=flat-square&logo=postgresql&logoColor=FFD700" alt="SQL" />
-<img src="https://img.shields.io/badge/Python-0D1B2A?style=flat-square&logo=python&logoColor=FFD700" alt="Python" />
-<img src="https://img.shields.io/badge/Databricks-0D1B2A?style=flat-square&logo=databricks&logoColor=FF6B35" alt="Databricks" />
-<img src="https://img.shields.io/badge/Delta_Lake-0D1B2A?style=flat-square&logo=delta&logoColor=1296F3" alt="Delta Lake" />
-<img src="https://img.shields.io/badge/Data_Quality-0D1B2A?style=flat-square&logo=checkmarx&logoColor=FFD700" alt="Data Quality" />
+**Skills demonstrated:** SQL · Data Transformation · Data Quality · Dimensional Modeling
 
-<br><br>
+<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site"><img src="https://img.shields.io/badge/PLAY_LIVE_DEMO-1296F3?style=for-the-badge&labelColor=0D1117&logo=googleplay&logoColor=FFD700" alt="Play Pac-Joy" /></a>
 
-<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site"><img src="https://img.shields.io/badge/PLAY_LIVE_DEMO-1296F3?style=for-the-badge&labelColor=0D1B2A&logo=googleplay&logoColor=FFD700" alt="Play the live Pac-Joy Data Pipeline Maze" /></a>
-<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site"><img src="https://img.shields.io/badge/VIEW_LEADERBOARD-77333E?style=for-the-badge&logo=githubsponsors&logoColor=FFD700" alt="View the live Pac-Joy leaderboard" /></a>
+</td>
+<td width="32%" valign="top" align="center">
 
-<sub>9 challenges · 3 difficulty levels · 900 points · persistent score tracking</sub>
+### 🏆 Leaderboard
 
-</div>
+**9 challenges**  
+**3 difficulty levels**  
+**900 maximum points**
+
+Track top scores and completed runs.
+
+<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site"><img src="https://img.shields.io/badge/VIEW_RANKINGS-77333E?style=for-the-badge&logo=githubsponsors&logoColor=FFD700" alt="View Pac-Joy leaderboard" /></a>
+
+</td>
+</tr>
+</table>
 
 
 ## 🧱 Lakehouse Ready: Databricks Certification Exam Test
