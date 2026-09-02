@@ -19,6 +19,9 @@
         <animate attributeName="width" values="0;0;500;500" keyTimes="0;.15;.75;1" dur="6s" repeatCount="indefinite"/>
       </rect>
     </clipPath>
+    <clipPath id="umaruCrop">
+      <rect x="830" y="48" width="320" height="205" rx="18"/>
+    </clipPath>
   </defs>
 
   <rect width="1200" height="300" rx="24" fill="#070B18"/>
@@ -37,7 +40,7 @@
     <rect y="18" width="16" height="16" fill="#1296F3"/><rect x="18" y="18" width="16" height="16" fill="#FF8A00"/><rect x="36" y="18" width="16" height="16" fill="#FFFFFF"/>
   </g>
 
-  <text x="145" y="130" fill="#FFD700" font-family="Segoe UI, Arial, sans-serif" font-size="55" font-weight="800" letter-spacing="1">CHRISTINE JOY BALANSAY</text>
+  <text x="136" y="127" fill="#FFD700" font-family="Segoe UI, Arial, sans-serif" font-size="43" font-weight="800" letter-spacing="1.5">CHRISTINE JOY BALANSAY</text>
 
   <g clip-path="url(#reveal)">
     <text x="108" y="217" fill="url(#cyan)" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="800" letter-spacing="7">DATA ENGINEER</text>
@@ -52,18 +55,20 @@
   </g>
 
   <g filter="url(#glow)">
-    <path fill="#FFD700" d="M 0,-22 A 22,22 0 1,0 0,22 L 18,0 Z">
-      <animate attributeName="d" values="M 0,-22 A 22,22 0 1,0 0,22 L 18,0 Z;M 0,-22 A 22,22 0 1,0 0,22 L 6,0 Z;M 0,-22 A 22,22 0 1,0 0,22 L 18,0 Z" dur=".35s" repeatCount="indefinite"/>
-    </path>
-    <circle cx="2" cy="-9" r="2.8" fill="#070B18"/>
-    <animateTransform attributeName="transform" type="translate" values="88 196;88 196;650 196;650 196" keyTimes="0;.15;.75;1" dur="6s" repeatCount="indefinite"/>
+    <circle cx="0" cy="0" r="23" fill="#FFD700"/>
+    <polygon fill="#070B18" points="0,0 27,-17 27,17">
+      <animate attributeName="points"
+        values="0,0 27,-18 27,18; 0,0 27,-3 27,3; 0,0 27,-18 27,18"
+        dur=".42s" repeatCount="indefinite"/>
+    </polygon>
+    <circle cx="3" cy="-10" r="3" fill="#070B18"/>
+    <animateTransform attributeName="transform" type="translate"
+      values="78 196;78 196;650 196;650 196"
+      keyTimes="0;.15;.75;1" dur="6s" repeatCount="indefinite"/>
   </g>
 
-  <g transform="translate(870 72)">
-    <rect x="0" y="0" width="245" height="142" rx="18" fill="#0D1428" stroke="#263B68" stroke-width="2"/>
-    <path d="M35 105V78h30v27M72 105V58h30v47M109 105V38h30v67M146 105V68h30v37" fill="none" stroke="#1296F3" stroke-width="10" stroke-linecap="round"/>
-    <path d="M34 47h48l22-20h73" fill="none" stroke="#FFD700" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="34" cy="47" r="6" fill="#FFD700"/><circle cx="104" cy="27" r="6" fill="#FFD700"/><circle cx="177" cy="27" r="6" fill="#FFD700"/>
-    <text x="122" y="132" text-anchor="middle" fill="#91A4C8" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">JOYINBYTES</text>
-  </g>
+  <image href="https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/main/assets/umaru-header.gif?v=4"
+    x="0" y="0" width="1200" height="300"
+    preserveAspectRatio="xMidYMid meet"
+    clip-path="url(#umaruCrop)"/>
 </svg>
