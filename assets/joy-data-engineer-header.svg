@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Christine Joy Balansay — Data Engineer</title>
+  <desc id="desc">Animated Pac-Man reveals the Data Engineer title.</desc>
+  <defs>
+    <linearGradient id="frame" x1="0" x2="1">
+      <stop offset="0" stop-color="#1296F3"/>
+      <stop offset="1" stop-color="#6F5CFF"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" x2="1">
+      <stop offset="0" stop-color="#48D7FF"/>
+      <stop offset="1" stop-color="#1296F3"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="reveal">
+      <rect x="108" y="170" height="62" width="0">
+        <animate attributeName="width" values="0;0;500;500" keyTimes="0;.15;.75;1" dur="6s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="300" rx="24" fill="#070B18"/>
+  <rect x="14" y="14" width="1172" height="272" rx="22" fill="none" stroke="url(#frame)" stroke-width="5"/>
+  <rect x="27" y="27" width="1146" height="246" rx="16" fill="none" stroke="#1D4ED8" stroke-width="1.5"/>
+
+  <g fill="#FFD700" opacity=".9">
+    <circle cx="72" cy="48" r="4"/><circle cx="102" cy="48" r="4"/><circle cx="132" cy="48" r="4"/>
+    <circle cx="162" cy="48" r="4"/><circle cx="192" cy="48" r="4"/><circle cx="222" cy="48" r="4"/>
+    <circle cx="252" cy="48" r="4"/><circle cx="282" cy="48" r="4"/><circle cx="312" cy="48" r="4"/>
+    <circle cx="342" cy="48" r="4"/><circle cx="372" cy="48" r="4"/><circle cx="402" cy="48" r="4"/>
+  </g>
+
+  <g transform="translate(70 82)">
+    <rect width="16" height="16" fill="#FF4057"/><rect x="18" width="16" height="16" fill="#FFD700"/><rect x="36" width="16" height="16" fill="#17C964"/>
+    <rect y="18" width="16" height="16" fill="#1296F3"/><rect x="18" y="18" width="16" height="16" fill="#FF8A00"/><rect x="36" y="18" width="16" height="16" fill="#FFFFFF"/>
+  </g>
+
+  <text x="145" y="130" fill="#FFD700" font-family="Segoe UI, Arial, sans-serif" font-size="55" font-weight="800" letter-spacing="1">CHRISTINE JOY BALANSAY</text>
+
+  <g clip-path="url(#reveal)">
+    <text x="108" y="217" fill="url(#cyan)" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="800" letter-spacing="7">DATA ENGINEER</text>
+  </g>
+
+  <g fill="#FFD700" opacity=".65">
+    <circle cx="120" cy="196" r="4"/><circle cx="150" cy="196" r="4"/><circle cx="180" cy="196" r="4"/>
+    <circle cx="210" cy="196" r="4"/><circle cx="240" cy="196" r="4"/><circle cx="270" cy="196" r="4"/>
+    <circle cx="300" cy="196" r="4"/><circle cx="330" cy="196" r="4"/><circle cx="360" cy="196" r="4"/>
+    <circle cx="390" cy="196" r="4"/><circle cx="420" cy="196" r="4"/><circle cx="450" cy="196" r="4"/>
+    <animate attributeName="opacity" values=".65;.65;0;0" keyTimes="0;.15;.75;1" dur="6s" repeatCount="indefinite"/>
+  </g>
+
+  <g filter="url(#glow)">
+    <path fill="#FFD700" d="M 0,-22 A 22,22 0 1,0 0,22 L 18,0 Z">
+      <animate attributeName="d" values="M 0,-22 A 22,22 0 1,0 0,22 L 18,0 Z;M 0,-22 A 22,22 0 1,0 0,22 L 6,0 Z;M 0,-22 A 22,22 0 1,0 0,22 L 18,0 Z" dur=".35s" repeatCount="indefinite"/>
+    </path>
+    <circle cx="2" cy="-9" r="2.8" fill="#070B18"/>
+    <animateTransform attributeName="transform" type="translate" values="88 196;88 196;650 196;650 196" keyTimes="0;.15;.75;1" dur="6s" repeatCount="indefinite"/>
+  </g>
+
+  <g transform="translate(870 72)">
+    <rect x="0" y="0" width="245" height="142" rx="18" fill="#0D1428" stroke="#263B68" stroke-width="2"/>
+    <path d="M35 105V78h30v27M72 105V58h30v47M109 105V38h30v67M146 105V68h30v37" fill="none" stroke="#1296F3" stroke-width="10" stroke-linecap="round"/>
+    <path d="M34 47h48l22-20h73" fill="none" stroke="#FFD700" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="34" cy="47" r="6" fill="#FFD700"/><circle cx="104" cy="27" r="6" fill="#FFD700"/><circle cx="177" cy="27" r="6" fill="#FFD700"/>
+    <text x="122" y="132" text-anchor="middle" fill="#91A4C8" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">JOYINBYTES</text>
+  </g>
+</svg>
