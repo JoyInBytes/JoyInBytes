@@ -20,8 +20,8 @@
          preserveAspectRatio="xMinYMin meet"/>
   <path d="M28 0H880V320H28Q0 320 0 292V28Q0 0 28 0Z" fill="#050816"/>
   <path d="M880 0H1172Q1200 0 1200 28V30H880Z" fill="#050816"/>
-  <path d="M880 290H1200V292Q1200 320 1172 320H880Z" fill="#050816"/>
-  <rect x="1158" y="30" width="42" height="260" fill="#050816"/>
+  <path d="M880 295H1200V292Q1200 320 1172 320H880Z" fill="#050816"/>
+  <rect x="1158" y="30" width="42" height="265" fill="#050816"/>
 
   <!-- One refined border. -->
   <rect x="10" y="10" width="1180" height="300" rx="24" fill="none" stroke="#1296F3" stroke-width="3"/>
