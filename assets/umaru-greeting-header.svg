@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
   <title id="title">It’s JoyInBytes — Your Data Engineer</title>
-  <desc id="desc">A modern data engineering profile banner with animated Umaru solving a Rubik’s Cube, two taglines popping in one at a time, and a pipeline packet changing from raw red to transform blue to ready green.</desc>
+  <desc id="desc">A modern data engineering profile banner with animated Umaru solving a Rubik’s Cube, two taglines popping in one at a time, and an ETL packet changing from extract red to transform blue to load green.</desc>
 
   <defs>
     <linearGradient id="pipelineLine" x1="0" y1="0" x2="1" y2="0">
@@ -26,7 +26,7 @@
   <!-- One refined border. -->
   <rect x="10" y="10" width="1180" height="300" rx="24" fill="none" stroke="#1296F3" stroke-width="3"/>
 
-  <!-- Compact RAW → TRANSFORM → CLEAN pixel-data mark. -->
+  <!-- Compact EXTRACT → TRANSFORM → LOAD pixel-data mark. -->
   <g transform="translate(66 48)" aria-hidden="true">
     <rect x="0" y="0" width="12" height="12" rx="2" fill="#EF4444"/>
     <rect x="17" y="0" width="12" height="12" rx="2" fill="#1296F3"/>
@@ -79,7 +79,7 @@
         font-family="Inter, Segoe UI, Arial, sans-serif"
         font-size="16" font-weight="600" letter-spacing="2.4">SQL • PYTHON • DATABRICKS • ETL</text>
 
-  <!-- Minimal raw → transformation → analytics-ready pipeline motif. -->
+  <!-- Minimal EXTRACT → TRANSFORM → LOAD pipeline motif. -->
   <g aria-hidden="true">
     <path d="M80 270 H650" fill="none" stroke="url(#pipelineLine)" stroke-width="3"
           stroke-linecap="round" stroke-dasharray="3 9" opacity=".72"/>
@@ -89,11 +89,11 @@
     <path d="M349 270h10M354 265v10" stroke="#38BDF8" stroke-width="2" stroke-linecap="round"/>
     <rect x="638" y="258" width="24" height="24" rx="12" fill="#050816" stroke="#22C55E" stroke-width="2"/>
     <path d="m644 270 5 5 8-10" fill="none" stroke="#22C55E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="68" y="299" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.3">RAW</text>
+    <text x="54" y="299" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.3">EXTRACT</text>
     <text x="314" y="299" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.3">TRANSFORM</text>
-    <text x="620" y="299" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.3">READY</text>
+    <text x="632" y="299" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.3">LOAD</text>
     <circle cx="100" cy="270" r="4" fill="#EF4444" filter="url(#softBlueGlow)">
-      <!-- The packet reaches TRANSFORM at 46%, reaches READY at 90%, then pauses there. -->
+      <!-- The packet reaches TRANSFORM at 46%, reaches LOAD at 90%, then pauses there. -->
       <animateMotion dur="5.2s" repeatCount="indefinite" path="M0 0 H550"
                      calcMode="linear" keyTimes="0;.46;.90;1"
                      keyPoints="0;.4618;1;1"/>
