@@ -80,13 +80,15 @@ A playful, interactive project that turns Data Engineering concepts into nine pr
 
 ### 🏆 Leaderboard
 
-| Rank | Player | Score |
-|:---:|:---|---:|
-| 🥇 | **Top spot open** | — |
-| 🥈 | **Your name here** | — |
-| 🥉 | **Your name here** | — |
+<p align="left">
+<strong>🥇 #1</strong> &nbsp; Top spot open &nbsp; —<br>
+<strong>🥈 #2</strong> &nbsp; Your name here &nbsp; —<br>
+<strong>🥉 #3</strong> &nbsp; Your name here &nbsp; —
+</p>
 
-<sub>Complete all 9 challenges and score up to **900 points**.</sub>
+<sub>Complete 9 challenges · Score up to <strong>900 points</strong></sub>
+
+<br><br>
 
 <a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site"><img src="https://img.shields.io/badge/OPEN_LIVE_LEADERBOARD-77333E?style=flat-square&logo=githubsponsors&logoColor=FFD700" alt="Open the live Pac-Joy leaderboard" /></a>
 
