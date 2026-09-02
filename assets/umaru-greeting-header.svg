@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Hello, it's JoyInBytes — Your Data Engineer</title>
-  <desc id="desc">Animated Umaru header with a friendly Data Engineer greeting.</desc>
+  <title id="title">Joy in Bytes — Your Data Engineer</title>
+  <desc id="desc">A clean Pac-Man-inspired profile header with animated Umaru solving a Rubik’s Cube.</desc>
   <defs>
     <clipPath id="line1"><rect x="82" y="102" width="0" height="48"><animate attributeName="width" values="0;0;500;500" keyTimes="0;.08;.32;1" dur="7s" repeatCount="indefinite"/></rect></clipPath>
     <clipPath id="line2"><rect x="82" y="153" width="0" height="40"><animate attributeName="width" values="0;0;420;420" keyTimes="0;.34;.55;1" dur="7s" repeatCount="indefinite"/></rect></clipPath>
@@ -13448,23 +13448,39 @@ IufnRsjngq7psm7ruq4Wqu6EqO7lvm7D7dru7V7b7K6ug+hu7/ru7wJv8Arv
 B3vwB4NwCIvwCJNwCZvwCaNwCqvwCrNwC7vwC8NwDMvwDNMw7gYEADs=
 " x="0" y="0" width="1200" height="300" preserveAspectRatio="xMidYMid meet"/>
 
-  <rect x="64" y="86" width="600" height="168" rx="12" fill="#020617"/>
-  <circle cx="77" cy="103" r="5" fill="#FFD700"/>
+  <!-- The original animated Umaru/Pac-Man GIF remains untouched underneath. -->
+  <rect x="62" y="78" width="650" height="180" rx="14" fill="#020617"/>
 
-  <g clip-path="url(#line1)">
-    <text x="82" y="139" fill="#FFD700" font-family="Segoe UI, Arial, sans-serif" font-size="39" font-weight="800" letter-spacing="1">HELLO, IT'S JOYINBYTES</text>
+  <!-- JoyInBytes pixel mark -->
+  <g transform="translate(82 101)">
+    <rect x="0" y="0" width="17" height="17" rx="1" fill="#FF6B00"/>
+    <rect x="21" y="0" width="17" height="17" rx="1" fill="#FF2D55"/>
+    <rect x="42" y="0" width="17" height="17" rx="1" fill="#22C55E"/>
+    <rect x="0" y="21" width="17" height="17" rx="1" fill="#FF2D55"/>
+    <rect x="21" y="21" width="17" height="17" rx="1" fill="#FFD700"/>
+    <rect x="42" y="21" width="17" height="17" rx="1" fill="#35C9FF"/>
   </g>
 
-  <g clip-path="url(#line2)">
-    <text x="82" y="187" fill="#35C9FF" font-family="Segoe UI, Arial, sans-serif" font-size="29" font-weight="700" letter-spacing="4">YOUR DATA ENGINEER</text>
-  </g>
+  <circle cx="86" cy="161" r="7" fill="#FFD700"/>
 
-  <g clip-path="url(#line3)">
-    <text x="82" y="230" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="600" letter-spacing="2">HOW CAN I HELP YOU?</text>
-  </g>
+  <text x="110" y="174"
+        fill="#FFD700"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="50"
+        font-weight="800"
+        letter-spacing="2">JOY IN BYTES</text>
 
-  <rect x="82" y="208" width="3" height="27" fill="#FFD700" filter="url(#softGlow)">
-    <animate attributeName="x" values="82;82;475;475" keyTimes="0;.57;.78;1" dur="7s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;0;1;0;1" dur=".7s" repeatCount="indefinite"/>
-  </rect>
+  <text x="110" y="216"
+        fill="#35C9FF"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="28"
+        font-weight="700"
+        letter-spacing="1.8">YOUR DATA ENGINEER</text>
+
+  <text x="110" y="249"
+        fill="#F8FAFC"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="22"
+        font-weight="600"
+        letter-spacing="1">HOW CAN I HELP YOU TODAY?</text>
 </svg>
