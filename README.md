@@ -1,6 +1,6 @@
 <div align="center">
 
-![Animated Umaru solving a Rubik's Cube in a Pac-Man arcade header](https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/main/assets/umaru-header.gif?v=5)
+![Hello, it's JoyInBytes — Your Data Engineer](https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/main/assets/umaru-greeting-header.svg?v=1)
 
 
 <a href="https://www.linkedin.com/in/christine-joy-balansay-cfmp-b132b5277/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Christine Joy Balansay on LinkedIn" /></a>
