@@ -49,53 +49,51 @@ I build my skills through hands-on projects that transform raw data into clean, 
 
 </div>
 
-## 📈 GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
-<a href="https://github.com/JoyInBytes"><img height="170" src="https://github-readme-stats.vercel.app/api?username=JoyInBytes&show_icons=true&hide_border=true&bg_color=FFFBF7&title_color=77333E&icon_color=E36F38&text_color=4B3940" alt="JoyInBytes GitHub statistics" /></a>
-<a href="https://github.com/JoyInBytes?tab=repositories"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyInBytes&layout=compact&hide_border=true&bg_color=FFFBF7&title_color=77333E&text_color=4B3940" alt="Most-used languages across JoyInBytes repositories" /></a>
+<a href="https://github.com/JoyInBytes"><img width="100%" src="https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/output/pacman-contribution-graph-dark.svg" alt="JoyInBytes contribution graph with an animated Pac-Man data journey" /></a>
 
-<br><br>
+<a href="https://github.com/JoyInBytes"><img width="70%" src="https://streak-stats.demolab.com?user=JoyInBytes&hide_border=true&background=FFFBF7&ring=E36F38&fire=E986A4&currStreakLabel=77333E&sideLabels=4B3940&dates=8A737B&currStreakNum=4B3940&sideNums=4B3940" alt="JoyInBytes GitHub contribution streak" /></a>
 
-<a href="https://github.com/JoyInBytes"><img src="https://streak-stats.demolab.com?user=JoyInBytes&hide_border=true&background=FFFBF7&ring=E36F38&fire=E986A4&currStreakLabel=77333E&sideLabels=4B3940&dates=8A737B&currStreakNum=4B3940&sideNums=4B3940" alt="JoyInBytes GitHub contribution streak" /></a>
+<sub>Consistent practice through data engineering projects, SQL challenges, and technical documentation.</sub>
 
 </div>
 
-## 🟡 Pac-Joy: Data Pipeline Maze
-
-> **Interactive Data Engineering portfolio project**
-
-Guide Pac-Joy through a complete data pipeline—from raw ingestion and transformation to validated, analytics-ready insights. Complete **Data Engineering and SQL challenges** across Easy, Average, and Challenge levels.
-
-**What it demonstrates:** staged pipeline thinking, SQL validation, data-quality checks, and persistent score tracking through a deployed application.
+## 🟡 Featured Project · Pac-Joy Data Pipeline Maze
 
 <div align="center">
 
-<p><strong>Pipeline Journey</strong></p>
+<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site"><img width="100%" src="https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/main/assets/pacjoy-game-banner.svg" alt="Pac-Joy Data Pipeline Maze — an interactive Data Engineering challenge" /></a>
 
-<p><code>RAW DATA</code> → <code>TRANSFORM</code> → <code>VALIDATE</code> → <code>INSIGHTS</code></p>
+</div>
 
-<p>
+### Learn Data Engineering by moving through the pipeline
+
+**Pac-Joy** turns core pipeline concepts into a playable portfolio experience. Players solve nine SQL and Data Engineering challenges while progressing from raw data to analytics-ready insights.
+
+| Pipeline stage | Challenge focus | Skill demonstrated |
+|---|---|---|
+| **Raw Data** | Inspect sources and identify issues | Data profiling and ingestion thinking |
+| **Transform** | Clean, type, join, and model data | SQL transformation and dimensional modeling |
+| **Validate** | Test quality rules and reconcile results | Data quality and validation |
+| **Insights** | Deliver trusted, usable outputs | Analytics-ready pipeline design |
+
+<div align="center">
+
 <img src="https://img.shields.io/badge/SQL-0D1B2A?style=flat-square&logo=postgresql&logoColor=FFD700" alt="SQL" />
 <img src="https://img.shields.io/badge/Python-0D1B2A?style=flat-square&logo=python&logoColor=FFD700" alt="Python" />
 <img src="https://img.shields.io/badge/Databricks-0D1B2A?style=flat-square&logo=databricks&logoColor=FF6B35" alt="Databricks" />
 <img src="https://img.shields.io/badge/Delta_Lake-0D1B2A?style=flat-square&logo=delta&logoColor=1296F3" alt="Delta Lake" />
-<img src="https://img.shields.io/badge/ETL_%2F_ELT-0D1B2A?style=flat-square&logo=buffer&logoColor=1296F3" alt="ETL and ELT pipelines" />
 <img src="https://img.shields.io/badge/Data_Quality-0D1B2A?style=flat-square&logo=checkmarx&logoColor=FFD700" alt="Data Quality" />
-</p>
 
-<p><img width="72" src="https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/main/assets/pacjoy-cta-mascot.gif?v=1" alt="Small animated Pac-Joy mascot moving toward and clicking the Play Pac-Joy button" /></p>
+<br><br>
 
-<p><a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site"><img src="https://img.shields.io/badge/PLAY_PAC--JOY-1296F3?style=for-the-badge&labelColor=0D1B2A&logo=databricks&logoColor=FFD700" alt="Play the Pac-Joy Data Pipeline Maze" /></a></p>
+<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site"><img src="https://img.shields.io/badge/PLAY_LIVE_DEMO-1296F3?style=for-the-badge&labelColor=0D1B2A&logo=googleplay&logoColor=FFD700" alt="Play the live Pac-Joy Data Pipeline Maze" /></a>
+<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site"><img src="https://img.shields.io/badge/VIEW_LEADERBOARD-77333E?style=for-the-badge&logo=githubsponsors&logoColor=FFD700" alt="View the live Pac-Joy leaderboard" /></a>
 
-<sub>9 challenges • 3 difficulty levels • live score tracking</sub>
-
-### 🏆 Live Top 4
-
-<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site"><img width="720" src="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site/api/leaderboard-card?theme=professional-v2" alt="Live Pac-Joy leaderboard showing first, second, third, and fourth place" /></a>
-
-<sub>If the live card is unavailable, <a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site">open Pac-Joy to view the current rankings</a>.</sub>
+<sub>9 challenges · 3 difficulty levels · 900 points · persistent score tracking</sub>
 
 </div>
 
@@ -138,14 +136,6 @@ Choose the certification path you are preparing for:
 
 > **Independent study resource:** Lakehouse Ready is a personal preparation tool and is not affiliated with, endorsed by, or an official product of Databricks. Always verify exam details using the current official Databricks certification pages and exam guides.
 
-
-## 🟡 Contribution Journey
-
-<div align="center">
-
-<a href="https://github.com/JoyInBytes"><img src="https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/output/pacman-contribution-graph-dark.svg" alt="Animated Pac-Man traveling through JoyInBytes GitHub contributions" /></a>
-
-</div>
 
 ---
 
