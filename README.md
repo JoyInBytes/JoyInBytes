@@ -94,6 +94,29 @@ A playful, interactive project that turns Data Engineering concepts into nine pr
 </table>
 
 
+## 🔥 Version 2 — Databricks Associate Cert. Focus
+
+> **A focused Databricks Data Engineer Associate exam lab with mock tests, guided practice, corrections, and personal progress analytics.**
+
+This redesigned version uses a Databricks-inspired red, coral, dark-teal, and warm-neutral palette while keeping the learning experience practical and easy to review.
+
+**What’s inside:**
+
+- 140 carefully explained practice questions
+- 45-question, 90-minute mock exam simulation
+- Guided practice across 7 exam domains
+- Personalized domain scores and focus recommendations
+- Pinned questions, corrections, notes, and attempt history
+- Device-local progress tracking
+
+<div align="center">
+
+<a href="https://joy-databricks-lab.ceejaybalansay23.chatgpt.site"><img src="https://img.shields.io/badge/OPEN_VERSION_2-FF3621?style=for-the-badge&labelColor=1B3139&logo=databricks&logoColor=white" alt="Open Version 2 — Databricks Associate Cert. Focus" /></a>
+
+<sub>Independent study tool · Not affiliated with or endorsed by Databricks</sub>
+
+</div>
+
 ## 🧱 Lakehouse Ready: Databricks Certification Exam Test
 
 > **Free interactive preparation guide for aspiring Databricks-certified Data Engineers**
