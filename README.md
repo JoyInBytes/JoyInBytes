@@ -94,67 +94,25 @@ A playful, interactive project that turns Data Engineering concepts into nine pr
 </table>
 
 
-## 🔥 Version 2 — Databricks Associate Cert. Focus
+## 🔥 Databricks Associate • Practice V1
 
-> **A focused Databricks Data Engineer Associate exam lab with mock tests, guided practice, corrections, and personal progress analytics.**
-
-This redesigned version uses a Databricks-inspired red, coral, dark-teal, and warm-neutral palette while keeping the learning experience practical and easy to review.
+> **A public, current-guide study app for the Databricks Certified Data Engineer Associate exam.**
 
 **What’s inside:**
 
-- 140 carefully explained practice questions
-- 45-question, 90-minute mock exam simulation
-- Guided practice across 7 exam domains
-- Personalized domain scores and focus recommendations
-- Pinned questions, corrections, notes, and attempt history
-- Device-local progress tracking
+- 45-question, 90-minute mock exam using the current seven-domain weighting
+- Untimed topic-by-topic practice with explanations
+- Saved progress, attempt history, pass-readiness estimate, and weak-domain focus
+- Complete 91-item FTW worksheet, with notes where older terminology or source-key errors need correction
+- Bible-inspired encouragement after each submitted attempt
 
 <div align="center">
 
-<a href="https://joy-databricks-lab.ceejaybalansay23.chatgpt.site"><img src="https://img.shields.io/badge/OPEN_VERSION_2-FF3621?style=for-the-badge&labelColor=1B3139&logo=databricks&logoColor=white" alt="Open Version 2 — Databricks Associate Cert. Focus" /></a>
+<a href="https://joy-databricks-exam-v1.ceejaybalansay23.chatgpt.site"><img src="https://img.shields.io/badge/OPEN_PRACTICE_V1-FF3621?style=for-the-badge&labelColor=1B3139&logo=databricks&logoColor=white" alt="Open Databricks Associate Practice V1" /></a>
 
 <sub>Independent study tool · Not affiliated with or endorsed by Databricks</sub>
 
 </div>
-
-## 🧱 Lakehouse Ready: Databricks Certification Exam Test
-
-> **Free interactive preparation guide for aspiring Databricks-certified Data Engineers**
-
-I built **Lakehouse Ready** from the same preparation process I used for my own Databricks certification journey: diagnose weak areas, understand every mistake, practice hands-on, and retest until the concepts become familiar.
-
-Choose the certification path you are preparing for:
-
-| Track | Exam-aligned preparation |
-|---|---|
-| **Data Engineer Associate** | Platform fundamentals, ingestion, transformation, Lakeflow Jobs, CI/CD, optimization, governance, and security |
-| **Data Engineer Professional** | Production pipelines, AUTO CDC, streaming, data sharing, observability, performance, compliance, deployment, and advanced modeling |
-
-**Inside the test guide:**
-
-- Exam-style multiple-choice diagnostics with explanations
-- Separate Associate and Professional progress tracking
-- Domain-level readiness signals and focused study recommendations
-- Practical Databricks labs designed for hands-on learning
-- Current Databricks terminology and renamed-product reminders
-- Content structured around the official 2026 certification exam guides
-
-<div align="center">
-
-<p>
-<img src="https://img.shields.io/badge/Associate-45_questions_%7C_90_minutes-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Data Engineer Associate exam format" />
-<img src="https://img.shields.io/badge/Professional-59_questions_%7C_120_minutes-77333E?style=flat-square&logo=databricks&logoColor=white" alt="Data Engineer Professional exam format" />
-<img src="https://img.shields.io/badge/Progress-Saved_Locally-087F78?style=flat-square&logo=checkmarx&logoColor=white" alt="Progress saved locally" />
-</p>
-
-<p><a href="https://lakehouse-ready.ceejaybalansay23.chatgpt.site"><img src="https://img.shields.io/badge/TAKE_THE_FREE_TEST-FF3621?style=for-the-badge&labelColor=24292F&logo=databricks&logoColor=white" alt="Open the Lakehouse Ready Databricks Certification Exam Test" /></a></p>
-
-<sub>Learn → Diagnose → Practice → Repair → Retest</sub>
-
-</div>
-
-> **Independent study resource:** Lakehouse Ready is a personal preparation tool and is not affiliated with, endorsed by, or an official product of Databricks. Always verify exam details using the current official Databricks certification pages and exam guides.
-
 
 ---
 
