@@ -96,19 +96,19 @@ A playful, interactive project that turns Data Engineering concepts into nine pr
 
 ## 🔥 Databricks Associate • Practice V1
 
-> **A public, current-guide study app for the Databricks Certified Data Engineer Associate exam.**
+> **A public study app for the Databricks Certified Data Engineer Associate exam—built around the 91-question FTW source worksheet.**
 
 **What’s inside:**
 
-- 45-question, 90-minute mock exam using the current seven-domain weighting
-- Untimed topic-by-topic practice with explanations
-- Saved progress, attempt history, pass-readiness estimate, and weak-domain focus
-- Complete 91-item FTW worksheet, with notes where older terminology or source-key errors need correction
-- Bible-inspired encouragement after each submitted attempt
+- Three guided PDF review sets: **Questions 1–30**, **31–60**, and **61–91**
+- Instant correct-answer feedback and explanations after each practice choice
+- A 45-question random timed mock from the full 91-question pool · **90 minutes**
+- **80% practice target** · 36 out of 45 correct
+- Score history, domain performance, pacing insight, and a smart next-step recommendation
 
 <div align="center">
 
-<a href="https://joy-databricks-exam-v1.ceejaybalansay23.chatgpt.site"><img src="https://img.shields.io/badge/OPEN_PRACTICE_V1-FF3621?style=for-the-badge&labelColor=1B3139&logo=databricks&logoColor=white" alt="Open Databricks Associate Practice V1" /></a>
+<a href="https://joy-databricks-exam-v1.ceejaybalansay23.chatgpt.site"><img src="https://img.shields.io/badge/OPEN_PRACTICE_APP-FF3621?style=for-the-badge&labelColor=1B3139&logo=databricks&logoColor=white" alt="Open Databricks Associate Practice V1" /></a>
 
 <sub>Independent study tool · Not affiliated with or endorsed by Databricks</sub>
 
