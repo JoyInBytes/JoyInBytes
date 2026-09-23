@@ -1,6 +1,6 @@
 <div align="center">
 
-![It’s JoyInBytes profile header with animated Umaru, alternating Data Engineer taglines, and an EXTRACT–TRANSFORM–LOAD pipeline](./assets/umaru-greeting-header.svg?v=11)
+![Joy in Bytes profile banner with Data Engineer title, SQL, Python, Databricks, and Umaru solving a Rubik’s Cube](./assets/joyinbytes-profile-header.gif)
 
 <a href="https://www.linkedin.com/in/christine-joy-balansay-cfmp-b132b5277/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Christine Joy Balansay on LinkedIn" /></a>
 <a href="https://github.com/JoyInBytes"><img src="https://img.shields.io/badge/GitHub-Follow-77333E?style=for-the-badge&logo=github&logoColor=white" alt="Follow JoyInBytes on GitHub" /></a>
