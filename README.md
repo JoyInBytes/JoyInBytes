@@ -114,6 +114,33 @@ A playful, interactive project that turns Data Engineering concepts into nine pr
 
 </div>
 
+
+## 🔥 Databricks Associate • Practice V2
+
+> **An 80-item practice app with readable text questions, clickable answers, and explanations based on my V2 study questionnaire.**
+
+**What’s inside:**
+
+- Three untimed practice chunks: **Questions 1–30**, **31–60**, and **61–80**
+- Immediate answers and explanations in practice mode
+- **45 shuffled questions · 90 minutes**, with automatic submission when time expires
+- Topic practice, an all-items question bank, saved scores, and domain progress
+- Answer review and simple Bible-based encouragement after each completed session
+- Study notes identifying reconstructed code examples and answer-key corrections
+
+<div align="center">
+
+<a href="https://databricks-de-associate-practice.ceejaybalansay23.chatgpt.site"><img src="https://img.shields.io/badge/OPEN_PRACTICE_V2-FF3621?style=for-the-badge&labelColor=1B3139&logo=databricks&logoColor=white" alt="Open Databricks Associate Practice V2" /></a>
+
+<sub>Private preview · V2 access is currently limited to the owner.</sub>
+
+</div>
+
+### Practice-test disclaimer
+
+**Version 1 and Version 2 are for practice and learning only.** They are independent study tools, not official Databricks exams, and are not affiliated with or endorsed by Databricks. Questions and explanations may contain errors or differ from the current exam. Practice scores do not guarantee certification results; use the official exam guide and documentation alongside these materials.
+
+
 ---
 
 <div align="center">
