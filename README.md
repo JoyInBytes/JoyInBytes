@@ -2,36 +2,23 @@
 
 ![It’s JoyInBytes profile header with animated Umaru, alternating Data Engineer taglines, and an EXTRACT–TRANSFORM–LOAD pipeline](./assets/umaru-greeting-header.svg?v=11)
 
-
 <a href="https://www.linkedin.com/in/christine-joy-balansay-cfmp-b132b5277/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Christine Joy Balansay on LinkedIn" /></a>
 <a href="https://github.com/JoyInBytes"><img src="https://img.shields.io/badge/GitHub-Follow-77333E?style=for-the-badge&logo=github&logoColor=white" alt="Follow JoyInBytes on GitHub" /></a>
 
 </div>
 
-## 👩‍💻 About Me
+## Christine Joy Balansay
+### Data Engineer | SQL · Python · Databricks
 
-I’m **Christine Joy Balansay**, a Data Engineer from the Philippines with a background in **Financial Management, Risk Management Operations, and Business Continuity Planning**.
+FTW Data Engineering Scholar with a background in Financial Management and risk operations. I build practical data workflows that move raw data toward reliable, analytics-ready datasets.
 
-I build my skills through hands-on projects that transform raw data into clean, reliable, and analytics-ready datasets. My current work focuses on pipeline development, data quality, dimensional modeling, and clear technical documentation.
+My current focus is pipeline development, data quality, dimensional modeling, and clear, maintainable documentation.
 
-- 🔧 Building ETL/ELT workflows using **SQL, Python, Databricks, Spark, and Delta Lake**
-- 🏗️ Designing **data warehouses, star schemas, fact tables, and dimensions**
-- ✅ Applying **data cleaning, validation, reconciliation, and incremental loading**
-- 📊 Turning trusted datasets into useful analysis through **Tableau**
-- 🎯 Building a future in Data Engineering—**one pipeline at a time**
+## What I work with
 
-## 💼 Core Competencies
-
-| Area | Skills |
-|---|---|
-| **Data Engineering** | ETL/ELT pipelines, batch processing, incremental loading, data quality |
-| **Data Transformation** | SQL, Python, data cleaning, validation, reconciliation |
-| **Lakehouse** | Databricks, Apache Spark, Delta Lake, Medallion Architecture |
-| **Data Modeling** | Dimensional modeling, star schema, fact and dimension tables |
-| **Analytics & Reporting** | Excel, Tableau, KPI design, analytics-ready datasets |
-| **Development** | Git, GitHub, version control, collaboration, technical documentation |
-
-## 🛠️ Technologies & Tools
+| Build | Transform | Model | Validate |
+|---|---|---|---|
+| ETL/ELT pipelines, batch ingestion | SQL, Python, Spark, Delta Lake | Medallion architecture, star schemas | Data quality checks, reconciliation, CI/CD |
 
 <div align="center">
 
@@ -40,16 +27,20 @@ I build my skills through hands-on projects that transform raw data into clean, 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&labelColor=24292F&logo=databricks&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&labelColor=24292F&logo=apachespark&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&labelColor=24292F&logo=delta&logoColor=white)
-![Data Modeling](https://img.shields.io/badge/Data_Modeling-77333E?style=for-the-badge&labelColor=24292F&logo=databricks&logoColor=white)
-![ETL/ELT](https://img.shields.io/badge/ETL_%2F_ELT-E986A4?style=for-the-badge&labelColor=24292F&logo=buffer&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&labelColor=24292F&logo=microsoftexcel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&labelColor=24292F&logo=githubactions&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&labelColor=24292F&logo=tableau&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=24292F&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&labelColor=24292F&logo=github&logoColor=white)
 
 </div>
 
-## 📊 Contribution Activity
+## Selected work
+
+| Project | What it demonstrates |
+|---|---|
+| [OULAD Dimensional Model](https://github.com/JoyInBytes/OULAD-dimensional-model) | Building an analytics model from learning-platform data, with dimensional design, quality checks, and CI workflow. |
+| [Pac-Joy: Data Pipeline Maze](https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site) | Interactive data-engineering challenges covering SQL, transformations, data quality, and dimensional modeling. |
+| [Databricks Associate Practice V2](https://databricks-de-associate-practice.ceejaybalansay23.chatgpt.site) | Text-based practice questions with answer feedback, explanations, topic practice, and a timed mock mode. |
+
+## Contribution activity
 
 <div align="center">
 
@@ -57,89 +48,18 @@ I build my skills through hands-on projects that transform raw data into clean, 
   <img width="100%" src="https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/output/pacman-contribution-graph-dark.svg" alt="JoyInBytes animated Pac-Man contribution graph" />
 </a>
 
-<sub>Building consistently through data engineering projects, SQL practice, and technical documentation.</sub>
+<sub>Learning and building through data projects, SQL practice, and technical documentation.</sub>
 
 </div>
 
-## 🟡 Featured Project · Pac-Joy
+## Databricks exam practice
 
-<table>
-<tr>
-<td width="68%" valign="top">
+I maintain two independent practice apps to support my exam preparation:
 
-### Data Pipeline Maze
+- [Practice V1](https://joy-databricks-exam-v1.ceejaybalansay23.chatgpt.site): 91-question study pool, guided review sets, explanations, and a 45-question, 90-minute mock exam.
+- [Practice V2](https://databricks-de-associate-practice.ceejaybalansay23.chatgpt.site): readable text questions, three untimed chunks, topic practice, and a 45-question, 90-minute shuffled mock.
 
-A playful, interactive project that turns Data Engineering concepts into nine practical challenges—from raw data inspection to analytics-ready insights.
-
-**Skills demonstrated:** SQL · Data Transformation · Data Quality · Dimensional Modeling
-
-<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site"><img src="https://img.shields.io/badge/PLAY_LIVE_DEMO-1296F3?style=for-the-badge&labelColor=0D1117&logo=googleplay&logoColor=FFD700" alt="Play Pac-Joy" /></a>
-
-</td>
-<td width="32%" valign="top" align="center">
-
-### 🏆 Leaderboard
-
-<p align="left">
-<strong>🥇 #1</strong> &nbsp; Top spot open &nbsp; —<br>
-<strong>🥈 #2</strong> &nbsp; Your name here &nbsp; —<br>
-<strong>🥉 #3</strong> &nbsp; Your name here &nbsp; —
-</p>
-<sub>Complete 9 challenges · Score up to <strong>900 points</strong></sub>
-<br><br>
-<a href="https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site"><img src="https://img.shields.io/badge/OPEN_LIVE_LEADERBOARD-77333E?style=flat-square&logo=githubsponsors&logoColor=FFD700" alt="Open the live Pac-Joy leaderboard" /></a>
-
-</td>
-</tr>
-</table>
-
-
-## 🔥 Databricks Associate • Practice V1
-
-> **A public study app for the Databricks Certified Data Engineer Associate exam—built around the 91-question FTW source worksheet.**
-
-**What’s inside:**
-
-- Three guided PDF review sets: **Questions 1–30**, **31–60**, and **61–91**
-- Instant correct-answer feedback and explanations after each practice choice
-- A 45-question random timed mock from the full 91-question pool · **90 minutes**
-- **80% practice target** · 36 out of 45 correct
-- Score history, domain performance, pacing insight, and a smart next-step recommendation
-
-<div align="center">
-
-<a href="https://joy-databricks-exam-v1.ceejaybalansay23.chatgpt.site"><img src="https://img.shields.io/badge/OPEN_PRACTICE_APP-FF3621?style=for-the-badge&labelColor=1B3139&logo=databricks&logoColor=white" alt="Open Databricks Associate Practice V1" /></a>
-
-<sub>Independent study tool · Not affiliated with or endorsed by Databricks</sub>
-
-</div>
-
-
-## 🔥 Databricks Associate • Practice V2
-
-> **An 80-item practice app with readable text questions, clickable answers, and explanations based on my V2 study questionnaire.**
-
-**What’s inside:**
-
-- Three untimed practice chunks: **Questions 1–30**, **31–60**, and **61–80**
-- Immediate answers and explanations in practice mode
-- **45 shuffled questions · 90 minutes**, with automatic submission when time expires
-- Topic practice, an all-items question bank, saved scores, and domain progress
-- Answer review and simple Bible-based encouragement after each completed session
-- Study notes identifying reconstructed code examples and answer-key corrections
-
-<div align="center">
-
-<a href="https://databricks-de-associate-practice.ceejaybalansay23.chatgpt.site"><img src="https://img.shields.io/badge/OPEN_PRACTICE_V2-FF3621?style=for-the-badge&labelColor=1B3139&logo=databricks&logoColor=white" alt="Open Databricks Associate Practice V2" /></a>
-
-<sub>Private preview · V2 access is currently limited to the owner.</sub>
-
-</div>
-
-### Practice-test disclaimer
-
-**Version 1 and Version 2 are for practice and learning only.** They are independent study tools, not official Databricks exams, and are not affiliated with or endorsed by Databricks. Questions and explanations may contain errors or differ from the current exam. Practice scores do not guarantee certification results; use the official exam guide and documentation alongside these materials.
-
+> **Practice disclaimer:** These are independent study tools for practice and learning only. They are not official Databricks exams and are not affiliated with or endorsed by Databricks. Questions and explanations may contain errors or differ from the current exam. Use the official exam guide and documentation as your primary references.
 
 ---
 
