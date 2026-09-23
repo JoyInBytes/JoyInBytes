@@ -54,7 +54,7 @@ My current focus is pipeline development, data quality, dimensional modeling, an
 
 ## Databricks exam practice
 
-I maintain two independent practice apps to support my exam preparation:
+I maintain two independent practice apps to help candidates prepare for the Databricks Certified Data Engineer Associate exam:
 
 - [Practice V1](https://joy-databricks-exam-v1.ceejaybalansay23.chatgpt.site): 91-question study pool, guided review sets, explanations, and a 45-question, 90-minute mock exam.
 - [Practice V2](https://databricks-de-associate-practice.ceejaybalansay23.chatgpt.site): readable text questions, three untimed chunks, topic practice, and a 45-question, 90-minute shuffled mock.
