@@ -32,14 +32,6 @@ My current focus is pipeline development, data quality, dimensional modeling, an
 
 </div>
 
-## Selected work
-
-| Project | What it demonstrates |
-|---|---|
-| [OULAD Dimensional Model](https://github.com/JoyInBytes/OULAD-dimensional-model) | Building an analytics model from learning-platform data, with dimensional design, quality checks, and CI workflow. |
-| [Pac-Joy: Data Pipeline Maze](https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site) | Interactive data-engineering challenges covering SQL, transformations, data quality, and dimensional modeling. |
-| [Databricks Associate Practice V2](https://databricks-de-associate-practice.ceejaybalansay23.chatgpt.site) | Text-based practice questions with answer feedback, explanations, topic practice, and a timed mock mode. |
-
 ## Contribution activity
 
 <div align="center">
