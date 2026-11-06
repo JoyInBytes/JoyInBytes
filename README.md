@@ -37,7 +37,7 @@ Right now, I'm focused on reliable pipelines, data quality, dimensional modeling
 * 🎓 Financial Management graduate, cum laude. I bring a business and risk perspective to data.
 * 🌱 It took three attempts to get into FTW. I kept trying, graduated, and earned my Databricks certification.
 * ✍️ I like documenting the journey, including the parts I'm still figuring out.
-* 🏃‍♀️ Outside of tech, my interests include running, triathlon, and hiking.
+* 🏃‍♀️ Outside of tech, my interests include triathlon and hiking.
 * 🤝 Faith, family, and serving my community keep me grounded.
 
 ## Contribution activity
