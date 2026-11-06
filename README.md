@@ -1,55 +1,55 @@
-<div align="center">
+# Finding joy in learning, one byte at a time.
 
-![Joy in Bytes profile banner with Data Engineer title, SQL, Python, Databricks, and Umaru solving a Rubik’s Cube](./assets/joyinbytes-profile-header.gif)
+Hi! I'm **Christine Joy Balansay (Joy)** — a data engineer with a background in Financial Management and risk operations, an FTW Data Engineering Batch 12 graduate, and a Databricks Certified Data Engineer Associate.
 
-<a href="https://www.linkedin.com/in/christine-joy-balansay-cfmp-b132b5277/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Christine Joy Balansay on LinkedIn" /></a>
-<a href="https://github.com/JoyInBytes"><img src="https://img.shields.io/badge/GitHub-Follow-77333E?style=for-the-badge&logo=github&logoColor=white" alt="Follow JoyInBytes on GitHub" /></a>
+I enjoy turning messy data into information people can trust. Here, I share the projects I build, the lessons I learn, and the small wins along the way.
 
-</div>
+## Links
 
-## Christine Joy Balansay
-### Data Engineer | SQL · Python · Databricks
+**Build & explore**
 
-FTW Data Engineering Scholar with a background in Financial Management and risk operations. I build practical data workflows that move raw data toward reliable, analytics-ready datasets.
+- [Project journal](https://github.com/JoyInBytes/ftw-de-journal) — what I built, what I learned, and what comes next.
+- [Chinook Sales Data Warehouse](https://github.com/ItsYangCoder/d3-chinook-dimensional-model) — a team project using Databricks SQL, dimensional modeling, and Tableau.
+- [Pac-Joy](https://pac-joy-data-maze.ceejaybalansay23.chatgpt.site) — a playful way to explore data pipelines and SQL.
 
-My current focus is pipeline development, data quality, dimensional modeling, and clear, maintainable documentation.
+**Learn & share**
 
-## What I work with
+- [Learning notes](https://github.com/JoyInBytes/learning-notes) — beginner-friendly notes on Git, GitHub, and data engineering.
+- [Daily learning logs](https://github.com/JoyInBytes/ftw-de-journal/tree/main/daily-logs) — small steps, questions, and discoveries.
+- [Lakehouse Ready](https://lakehouse-ready.ceejaybalansay23.chatgpt.site) — Databricks certification practice and study resources.
 
-| Build | Transform | Model | Validate |
-|---|---|---|---|
-| ETL/ELT pipelines, batch ingestion | SQL, Python, Spark, Delta Lake | Medallion architecture, star schemas | Data quality checks, reconciliation, CI/CD |
+**Elsewhere**
 
-<div align="center">
+- [LinkedIn](https://www.linkedin.com/in/christine-joy-balansay-cfmp-b132b5277/) — my learning journey, projects, and career updates.
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&labelColor=24292F&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=24292F&logo=python&logoColor=FFD43B)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&labelColor=24292F&logo=databricks&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&labelColor=24292F&logo=apachespark&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&labelColor=24292F&logo=delta&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&labelColor=24292F&logo=githubactions&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&labelColor=24292F&logo=tableau&logoColor=white)
+Right now, I'm focused on reliable pipelines, data quality, dimensional modeling, and documentation that makes the next person's work easier.
 
-</div>
+## Stack
+
+- **Languages:** SQL, Python
+- **Data engineering:** Databricks, Apache Spark, Delta Lake, ETL/ELT, Lakeflow Jobs
+- **Modeling & quality:** Medallion architecture, star schemas, Great Expectations, reconciliation
+- **Analytics:** Tableau
+- **Tooling:** Git, GitHub, GitHub Actions, CI/CD
+
+## Beyond the code
+
+- 🎓 Financial Management graduate, cum laude — bringing a business and risk perspective to data.
+- 🌱 It took three attempts to get into FTW. I kept trying, graduated, and earned my Databricks certification.
+- ✍️ I like documenting the journey, including the parts I'm still figuring out.
+- 🏃‍♀️ I enjoy a morning run and the small progress that comes with showing up.
+- 🤝 Faith, family, and serving my community keep me grounded.
 
 ## Contribution activity
 
-<div align="center">
-
-<a href="https://github.com/JoyInBytes">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/output/pacman-contribution-graph.svg" />
   <img width="100%" src="https://raw.githubusercontent.com/JoyInBytes/JoyInBytes/output/pacman-contribution-graph-dark.svg" alt="JoyInBytes animated Pac-Man contribution graph" />
-</a>
+</picture>
 
-<sub>Learning and building through data projects, SQL practice, and technical documentation.</sub>
-
-</div>
+Learning and building, one contribution at a time.
 
 ---
 
-<div align="center">
-
-### “Fueled by lifelong learning, grounded in purpose—one pipeline at a time.”
-
-<img src="https://komarev.com/ghpvc/?username=JoyInBytes&label=PROFILE+VISITORS&color=E36F38&style=for-the-badge&labelColor=77333E" alt="JoyInBytes profile visitor count" />
-
-</div>
+*Fueled by lifelong learning, grounded in purpose — one pipeline at a time.*
